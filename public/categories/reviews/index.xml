@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on JSvdW Hugo test</title>
+    <link>http://localhost:1313/categories/reviews/</link>
+    <description>Recent content in Reviews on JSvdW Hugo test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 May 2006 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Great review for ‘Schaduwee’</title>
+      <link>http://localhost:1313/posts/2006-05-04-great-review-for-schaduwee/</link>
+      <pubDate>Thu, 04 May 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2006-05-04-great-review-for-schaduwee/</guid>
+      <description>Well, Gareth and I got a really excellent review for our concert last night from Michael Tumelty in the Glasgow Herald;&#xA;&amp;lsquo;Let&amp;rsquo;s not mess about. Never mind technical shortcomings, rough edges, the fractured tenor who was clearly in discomfort. Last night&amp;rsquo;s offering by RSAMD students in the academy&amp;rsquo;s festival of new music, Plug, gets five stars for the originality of creative thought that flowed from student composers Simon van der Walt and Gareth Williams into two new works for theatrical performance.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,41 +1,28 @@
 ---
 title: Introduction
 type: docs
+bookToc: false
 ---
+# J Simon van der Walt
 
-# Acerbo datus maxime
+{{< columns >}} <!-- begin columns block -->
+J. Simon van der Walt is a composer, multi-instrumentalist, and teacher, living and working in Scotland. His music draws on many styles and approaches, including score-based composition, installation, sound art, performance, devising and improvising. At one time a jazz trumpet player, Simon has also been known to perform on the trombone, didgeridu, guitar, gamelan, laptop, and an assortment of home-made instruments. He teaches at the Royal Conservatoire of Scotland in Glasgow, where he is head of the taught postgraduate programmes in music.
 
-{{< columns >}}
-## Astris ipse furtiva
+<---> <!-- magic separator, between columns -->
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+![Picture of Simon](/xtremehead.png) 
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
 {{< /columns >}}
 
+### On this site
 
-## Tempora nisi nunc
+* [Catalog of works](http://tedthetrumpet.wordpress.com/works) with program notes, forces and durations, scores, recordings and video
+* [Blog](http://tedthetrumpet.wordpress.com/blog) news, reviews, ideas
+* [About](http://tedthetrumpet.wordpress.com/about) more about my work as a composer, performer and teacher
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+### Elsewhere
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+* [SoundCloud.com/tedthetrumpet](https://soundcloud.com/tedthetrumpet/) – current audio explorations
+* [twitter.com/tedthetrumpet](https://twitter.com/tedthetrumpet) – updates
+* [tedthetrumpet.hotglue.me](http://tedthetrumpet.hotglue.me/) – who is tedthetrumpet?
 
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
