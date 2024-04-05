@@ -5,3 +5,6 @@ Also has 'older posts'
 https://hugo-theme-beautifulhugo.netlify.app/
 
 ok, mine has that already :)
+
+https://imfing.github.io/hextra/docs/
+lots going on here
