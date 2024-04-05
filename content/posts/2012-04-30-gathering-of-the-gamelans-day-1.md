@@ -1,0 +1,24 @@
+---
+title: "Gathering of the Gamelans - Day 1"
+date: "2012-04-30"
+categories: 
+  - "news"
+---
+
+Day 1 of the [Gathering of the Gamelans](http://www.york.ac.uk/music/conferences/gathering-of-the-gamelans/) here at York was very exciting and engaging. A great chance to catch up with old friends from the gamelan world, put faces to names, and meet new people.
+
+I left Glasgow purposely very early in order to get down in time to catch [Charles Matthews'](http://www.ardisson.net/) presentation 'Searching for an approach to gamelan and electronic music'. I've been following Charles [on twitter](http://twitter.com/matthewscharles) on his recent trip to Indonesia where he was exploring some of these approaches in their native setting, and I was very curious to see what he has been up to. The session started with a performance devised in collaboration with Charlotte Pugh, for gender and laptop. On screen we were able to watch Charles' Max patch in action, as he created what one might term 'electroacoustic cengkok' to compliment Charlotte's gender on 'Sri Katon'. One of the most interesting aspects was his use of a fader on a control surface to manipulate time, 'scratching' his way through each gotra: a unique approach, as far as I am aware.
+
+More pieces followed, showing a variety of improvisatory approaches, some manipulating Charlotte's live sound. Overall the music was mostly slow and evolving: I would be interested to see whether these approaches would work in a more lively style.
+
+We then had an excellent presentation by [Sarah Kekus](http://www.linkedin.com/pub/sarah-kekus/33/252/465), Ali McCaw, and [Chris Stones](www.soundwave.org.uk/), 'Exploring sound worlds – creative exploration of traditional cultures from Northern England and Central Java'. A great three-way act, with Chris starting off by getting a few people down from the audience, myself included, to work up a texture for lithophone and gamelan. One this was established, Ali gave us a performance with some wayang golek, including an appearance from a puppet of Peter Crosthwaite, a C19th figure who both travelled in the Far East and established a [tradition of Cumbrian lithophony](http://www.musicalstones.blogspot.co.uk/). Sarah Kekus outlined her experiences of gamelan in Cumbria, beginning with an iron Suhirdjan gamelan which she obtained for her school. An excellent presentation of a (perhaps distinctively British?) strand of community/education work with gamelan.
+
+[Neil Sorrell](http://www-users.york.ac.uk/~nfis1/) lead a session entitled 'Composing for Western instruments and gamelan' by referring to something he calls the 'three Ts': timidity, timbre and tuning. By 'timidity' he seemed to mean a dimension of fear versus daring, when writing for gamelan, which he instanced by playing the opening snatch of [Harjito's](http://www.umassd.edu/cvpa/faculty/harjitoim/) bagpipe piece 'Sekaten'. His point being, I think, that Indonesian composers are not timid when it comes to innovation!
+
+Guest musician Pak A.L. Suwardi then gave an inspiring talk about his approach to composition, showed some slides of the [Gamelan Gentha](http://www.thejakartapost.com/news/2001/09/06/suwardi-revives-dead-039gentha039-gamelan-sounds.html), a set of self-constructed experimental instruments, and played an extract of another recent project including his own instruments, called I think 'Planet Harmonic'. Many of his comments resonated very strongly with me, particularly in reference to composing for a particular context.
+
+[Aris Daryono's](http://soundcloud.com/aris-daryono) presentation of his work was slightly hampered by a laptop disaster which meant he could not bring recordings for us to hear. However, he did present a page from a fully notated score for a piece for flute and gender. He talked about his efforts to have the music which he writes for Western instruments and gamelan presented in straight concert settings, rather than being automatically programmed into some sort of ethnomusicological ghetto. Having recently managed to get a laptop piece performed as part of a regular concert programme, and not automatically placed into the 'electroacoustic' concert, I have a sort of sideways sympathy for the point he makes.
+
+[Clive Wilkinson](http://www.frogpeak.org/fpartists/fpwilkinson.html) then talked a little about some of his experiences composing for gamelan, including playing us a snatch of his 'Spindrift' from Manchester. I [wrote](http://theplugboard.blogspot.co.uk/2009/11/gamelan-weekend-at-rncm-sunday.html) about this piece at the time, and have in fact been invited by Clive to take part in a performance on Sunday, which will be an interesting experience.
+
+A great first day: a refreshingly non-academic atmosphere overall. No-one has so far presented a 'paper' at all, which I miss only a very little bit.
