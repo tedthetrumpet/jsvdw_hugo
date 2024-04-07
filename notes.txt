@@ -8,3 +8,5 @@ ok, mine has that already :)
 
 https://imfing.github.io/hextra/docs/
 lots going on here
+
+hugo version 0.124.1
