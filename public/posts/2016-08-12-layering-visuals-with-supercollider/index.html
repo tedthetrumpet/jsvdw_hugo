@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/jsvdw_hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=jsvdw_hugo/livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="When I was at emfcamp last week, I saw a couple of instances of people layering up visuals with their code. Claudius Maximus had that going with his clive system, SonicPi (and Gibber??) can do it out of the box, and Shelly Knotts had some sort of setup for (I think?) doing it completely within SuperCollider, with the cool idea of a webcam pointing down at her hands on the keyboard.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Layering visuals with SuperCollider" />
+<meta property="og:description" content="When I was at emfcamp last week, I saw a couple of instances of people layering up visuals with their code. Claudius Maximus had that going with his clive system, SonicPi (and Gibber??) can do it out of the box, and Shelly Knotts had some sort of setup for (I think?) doing it completely within SuperCollider, with the cool idea of a webcam pointing down at her hands on the keyboard." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/jsvdw_hugo/posts/2016-08-12-layering-visuals-with-supercollider/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2016-08-12T00:00:00+00:00" />
+<meta property="article:modified_time" content="2016-08-12T00:00:00+00:00" />
+<title>Layering visuals with SuperCollider | JSvdW Hugo test</title>
+<link rel="manifest" href="/jsvdw_hugo/manifest.json">
+<link rel="icon" href="/jsvdw_hugo/favicon.png" >
+<link rel="canonical" href="http://localhost:1313/jsvdw_hugo/posts/2016-08-12-layering-visuals-with-supercollider/">
+<link rel="stylesheet" href="/jsvdw_hugo/book.min.f8d3666af559e9590215dba2158127976df19ef623d0be35c6765ea14d98350f.css" integrity="sha256-&#43;NNmavVZ6VkCFduiFYEnl23xnvYj0L41xnZeoU2YNQ8=" crossorigin="anonymous">
+  <script defer src="/jsvdw_hugo/flexsearch.min.js"></script>
+  <script defer src="/jsvdw_hugo/en.search.min.d17283a5f696a2f9df43cb930b5ee6856a5184b8cbbe2f16a6d4d670b744fe68.js" integrity="sha256-0XKDpfaWovnfQ8uTC17mhWpRhLjLvi8WptTWcLdE/mg=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/jsvdw_hugo/"><span>JSvdW Hugo test</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Works</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/2008-02-29-scam/" class="">The Society for Classical and Authentic Music</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-b86813cf18f514c18a53bf1c7586c09d" class="toggle"  />
+    <label for="section-b86813cf18f514c18a53bf1c7586c09d" class="flex justify-between">
+      <a href="/jsvdw_hugo/docs/works/works-section/" class="">Works Section</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/first-page/" class="">First Page</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/second-page/" class="">Second Page</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/jsvdw_hugo/posts/"  >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/jsvdw_hugo/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Layering visuals with SuperCollider</strong>
+
+  <label for="toc-control">
+    
+    <img src="/jsvdw_hugo/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown book-post">
+  <h1>
+    <a href="/jsvdw_hugo/posts/2016-08-12-layering-visuals-with-supercollider/">Layering visuals with SuperCollider</a>
+  </h1>
+  
+  <h5>August 12, 2016</h5>
+
+
+
+  
+  <div>
+    
+      <a href="/jsvdw_hugo/categories/all/">All</a>, 
+      <a href="/jsvdw_hugo/categories/tech/">Tech</a>
+  </div>
+  
+
+  
+
+
+
+<p>When I was at <a href="https://www.emfcamp.org/">emfcamp</a> last week, I saw a couple of instances of people layering up visuals with their code. Claudius Maximus had that going with his <a href="https://mathr.co.uk/blog/2012-12-25_clive.html">clive</a> system, SonicPi (and Gibber??) can do it out of the box, and <a href="https://shellyknotts.wordpress.com/">Shelly Knotts</a>  had some sort of setup for (I think?) doing it completely within SuperCollider, with the cool idea of a webcam pointing down at her hands on the keyboard.</p>
+<p>After a bit of thought, I&rsquo;ve come up with this, just a still for now:</p>
+<p><img src="images/sclayervisuals.png" alt="sclayervisuals.png" /></p>
+<p>How this works: I used a $10 utility called <a href="http://techlife.sg/ScreenCaptureSyphon/">ScreenCaptureSyphon</a> that can amongst other things grab an application window and send it into Syphon. Then, Resolume Arena runs as a Syphon client, which lets me do almost anything including, as in the shot below, pull in the webcam and colorize. Not tried it yet, but Arena exposes its interface to OSC, so should in theory be possible to script visual changes from the SuperCollider IDE.</p>
+<p>A reasonably concinnitous hack, if I say so myself. (MInd you, it&rsquo;s the first thing I&rsquo;ve ever done with my MacBook Air that turns the fan on full blast the whole time!)</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

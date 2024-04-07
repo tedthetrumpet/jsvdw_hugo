@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on JSvdW Hugo test</title>
+    <link>http://localhost:1313/jsvdw_hugo/categories/tech/</link>
+    <description>Recent content in Tech on JSvdW Hugo test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jsvdw_hugo/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Patternuary 2023</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2023-02-05-patternuary-2023/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2023-02-05-patternuary-2023/</guid>
+      <description>During January 2023 a number of people active in the livecoding community participated together in a &amp;lsquo;patternuary&amp;rsquo; https://club.tidalcycles.org/t/patternuary-2023/4474/1 aiming to make one pattern every day during the month.&#xA;Some people worked in TidalCycles https://tidalcycles.org/, while many chose to use the Strudel platform https://strudel.tidalcycles.org/.&#xA;Some of the patterns were posted on the Tidal Club thread above, while many otherers appeared under the #patternuary thread on Mastodon https://post.lurk.org/tags/patternuary.&#xA;Given the strong likelihood of bitrot, I created a single video https://archive.</description>
+    </item>
+    <item>
+      <title>Livecoding Audacity – the outcome</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2022-12-23-livecoding-audacity-the-outcome/</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2022-12-23-livecoding-audacity-the-outcome/</guid>
+      <description>So, here&amp;rsquo;s how it turned out: attempting to &amp;rsquo;livecode&amp;rsquo; Audacity by saving a file out periodically to SuperCollider. A slow start, but gets more interesting towards the end of the twenty minutes.&#xA;https://youtu.be/0YpgHdJY-Kw&#xA;Also available here https://archive.org/details/nightstream-dec-2022-tedthetrumpet</description>
+    </item>
+    <item>
+      <title>Tiny Estuary Jams</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2021-12-03-tiny-estuary-jams/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2021-12-03-tiny-estuary-jams/</guid>
+      <description>I seem to have started doing that thing where I post a small piece of work each day: so far, four very short jam sessions in Estuary:&#xA;https://youtu.be/MeCpvXLMQe4&#xA;https://youtu.be/b5MQBuA5SWA&#xA;https://youtu.be/ddkhm-JRj5I&#xA;https://youtu.be/dRgQwRuUYsM</description>
+    </item>
+    <item>
+      <title>Gamelan sounds in GarageBand on iPad</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2021-03-10-gamelan-sounds-in-garageband-on-ipad/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2021-03-10-gamelan-sounds-in-garageband-on-ipad/</guid>
+      <description>This posting shows how I was able to get the sounds of the pelog half of the Spirit of Hope gamelan here in Glasgow to work in GarageBand on an iPad.&#xA;First install an app called &amp;lsquo;SoundFonts&amp;rsquo; from the App Store: it&amp;rsquo;s £4.99.&#xA;Go to this link https://archive.org/download/sohgamelanbalunganpelog, and download the file called SoH Gamelan balungan pelog.sf2&#xA;The file should end up saved in the Downloads folder in iCloud Drive.</description>
+    </item>
+    <item>
+      <title>Sound from SuperCollider to OBS on macOS</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2020-03-14-sound-from-supercollider-to-obs-on-macos/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2020-03-14-sound-from-supercollider-to-obs-on-macos/</guid>
+      <description>The principle here is that sound is sent from SuperCollider to the virtual audio driver BlackHole, and from BlackHole to OBS. You then listen to the sound through OBS.&#xA;Install https://github.com/ExistentialAudio/BlackHole&#xA;Set the mac sound output to &amp;lsquo;BlackHole 16ch&amp;rsquo; using the widget in the menu bar:&#xA;Boot or reboot the server in SuperCollider – this is a key step, the SC server will not pick up a change of audio device without a fresh boot or a reboot:</description>
+    </item>
+    <item>
+      <title>Livecoding brass</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-brass/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-brass/</guid>
+      <description>As 2019 draws to a close, I’m spending some time getting ready for the International Conference on Livecoding in February in Limerick. I put in two proposals. The first of these was to be called The ‘All-Pressure No-Method’ System, and would have involved me working with four live brass players. I say ‘would have’: this has had to be abandoned, we were not able to fund the travel and accomodation for the players.</description>
+    </item>
+    <item>
+      <title>Livecoding gamelan</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-gamelan/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-gamelan/</guid>
+      <description>The work that I will be taking to ICLC 2020 in Limerick is entitled ‘Perang Gagal: a Series of Inconclusive Battles’, and is a collaboration with Professor Mel Mercier at the Irish Word Academy of Music and Dance. I will performing livecode in SuperCollider as part of a small gamelan ensemble let by Mel. Here’s the demo video I submitted to the conference call:&#xA;https://youtu.be/yN1STGvmRqY&#xA;I had thought that the eventual piece would be straightforward to devise, but it is proving trickier than I thought.</description>
+    </item>
+    <item>
+      <title>That syncing feeling</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-that-syncing-feeling/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-that-syncing-feeling/</guid>
+      <description>In order to be able to work up sketches for ‘Perang Gagal’ at ICLC in Limerick, I wanted to use Logic to compose demos of the material for the live players that I could then improvise with in SuperCollider. This poses the problem of how to sync the pulse and tempo between the two programmes, which proved annoyingly difficult to accomplish!&#xA;Ideally, I would have liked to set the tempo in SuperCollider for Logic to follow.</description>
+    </item>
+    <item>
+      <title>Algorave at Sound Thought</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-02-18-algorave-at-sound-thought/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-02-18-algorave-at-sound-thought/</guid>
+      <description>I shared an algorave spot at Sound Thought with Claire Quigley, that was streamed as part of the TOPLAP 15th anniversary stream. You can see her set here and mine is here, although I have to say not that happy with the way my performance turned out on the day. The rehearsal was better:&#xA;https://youtu.be/zQwASJEnYEY&#xA;As you can see, combining my livecoding work with my passion for table tennis! And, in fact, this was a new technical discovery just the day before: it is possible to use Atom to livecode simultaneously in Hydra and SuperCollider, using a plugin for SC.</description>
+    </item>
+    <item>
+      <title>Callout for Scottish algo-ravers 16-2-2019</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-01-28-callout-for-scottish-algo-ravers-16-2-2019/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-01-28-callout-for-scottish-algo-ravers-16-2-2019/</guid>
+      <description>I&amp;rsquo;m looking for music and/or visual artists working with live code who are interested in joining me for an improvised algorave as part of Sound Thought 2019.&#xA;‘Livecoding’ is a practice where creative artists who work with computer code perform live, often producing music and/or visuals, with the audience typically able to watch the evolution of the code on a projected screen. ‘Algorave’ is a subgenre where the aim is to produce beat-driven music and/or visuals for dancing.</description>
+    </item>
+    <item>
+      <title>werk stadig</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-12-29-werk-stadig/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-12-29-werk-stadig/</guid>
+      <description>Here is the piece I contributed to the Sounding Nature project on Cities and Memory:&#xA;https://clyp.it/btdilbxd&#xA;It is a reworking of an audio file called ‘093 SOUTH AFRICA savannah polyrhythms’. As someone who spent part of their childhood in South Africa, the bird sounds in the source recording are very familiar to me: most particularly the distinctive monotonous call of Streptopelia capicola, the Ring-necked Dove, or, as I used to call it, the Cape Turtle Dove, the name given in the edition of Roberts’ Birds of Southern Africa that I owned at the time.</description>
+    </item>
+    <item>
+      <title>Interview at Sheffield Algorave</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-09-01-interview-at-sheffield-algorave/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-09-01-interview-at-sheffield-algorave/</guid>
+      <description>A short interview that Reverb Magazine did with me at the Sheffield Algorave 01/09/2018 – talking about combining livecoding, gamelan samples, and trumpet playing.&#xA;https://youtu.be/wX51frpG0TY</description>
+    </item>
+    <item>
+      <title>Not algorave</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-04-15-not-algorave/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-04-15-not-algorave/</guid>
+      <description>I&amp;rsquo;m interested in now taking the SuperCollider livecoding techniques that I&amp;rsquo;ve developed in the context of algorave and applying them to the creation of fixed media sound works. Here is one, using some prepared piano samples that Dr Kurt James Werner has been kind enough to put online.&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2018/04/pylon-country.mp3&#34;][/audio]&#xA;pylon-country.mp3&#xA;It&amp;rsquo;s not perfect: there is still a strong element of improvisation in this way of working, and there are places in this track where, on listening back, I might have wished to have performed differently.</description>
+    </item>
+    <item>
+      <title>Livecode improvisation with Anne-Liis Poll</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-04-12-livecode-improvisation-with-anne-liis-poll/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-04-12-livecode-improvisation-with-anne-liis-poll/</guid>
+      <description>As part of the team that organised the third METRIC Improvisation Intensive at the Royal Conservatoire of Glasgow, I did not have as much time as I might have liked to improvise myself. I was pleased however to be joined for an impromptu livecoded session by Anne-Liis Poll, Professor of Improvisation at the Estonian Academy of Music and Theatre:&#xA;[youtube https://www.youtube.com/watch?v=RjlTZuKa7iw?rel=0]&#xA;This did not quite turn out the way I had intended!</description>
+    </item>
+    <item>
+      <title>Livecoding again</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-02-16-livecoding-again/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-02-16-livecoding-again/</guid>
+      <description>Back at the livecoding again. A couple of weeks ago, a quite succesful workshop for the students on the Interactive Composition module at the Royal Conservatoire of Scotland. Coming up: a couple of things. In March there is going to be another long-form online algorave that I&amp;rsquo;ll be contributing a half-hour set to, Friday 16th at 1330 GMT. In April the METRIC Intensive III at the RCS sees staff and students converge on Glasgow for a week of improvisation: again, as well as leading some gamelan improvisation, expect to be SuperColliding as well.</description>
+    </item>
+    <item>
+      <title>Ubuntu Studio, SuperCollider, Dell Inspirion 11 3000 - success!</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2017-05-27-merapisuccess/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2017-05-27-merapisuccess/</guid>
+      <description>Having a very positive experience at the moment with Ubuntu Studio 17.04 running SuperCollider 3.8.0 on a £150 refurb 11&amp;quot; Dell Inspiron. Apart from an initial UEFI glitch with getting it to boot, Ubuntu Studio installed easily and works seamlessly so far. The SuperCollider install was made simple by this script install_supercollider_sc3plugins_buntu.sh from @theseansco – thanks Sean! When it came to actually booting SuperCollider, I did not even need to mess around with Jack or any other at all, everything on the audio side seems to just work.</description>
+    </item>
+    <item>
+      <title>Getting ready to be five (/four)</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2017-03-08-getting-ready-to-be-five-four/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2017-03-08-getting-ready-to-be-five-four/</guid>
+      <description>Next Friday I’m going to to be taking part in a 24 hour online algorave event wearefive to celebrate five years of the algorave movement. By accident or design I’m on back to back with coï¿¥ï¾¡pt (aka Sean Cotterill) who is one of only a couple of us livecoding in pure SuperCollider, rather than the by-now overwelmingly popular TidalCycles.&#xA;Sean has been putting together an interesting set of pages on his approach to livecoding in SC, particularly on the things that need to be set up beforehand.</description>
+    </item>
+    <item>
+      <title>Recent livecoding in SuperCollider</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2017-01-03-recent-livecoding-in-supercollider/</link>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2017-01-03-recent-livecoding-in-supercollider/</guid>
+      <description>Over the winter break I&amp;rsquo;ve been spending some time working on my livecoding/algorave setup in SuperCollider. Here&amp;rsquo;s a quick practice run, this is how things are going at the moment.&#xA;https://youtu.be/nk58NBtMFvE&#xA;The most recent idea here is the \warp synth, a granulator slowly reading through a choice of soundfiles. In this particular run, I think the .choose threw up a fragment of a Stokowski Bach transcription https://archive.org/details/J.S.BACH-OrchestralTranscriptions-NEWTRANSFER and perhaps a bit of the theme tune from The IT Crowd as well.</description>
+    </item>
+    <item>
+      <title>Rave the Space</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-10-06-rave-the-space/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-10-06-rave-the-space/</guid>
+      <description>Last night I gave a performance called &amp;lsquo;Rave the Space&amp;rsquo; at Stereo in Glasgow, part of a series of events called INTER run by Iain Findlay-Walsh &amp;lsquo;creating a focused, public listening context for deep experiments in / with sound&amp;rsquo;.&#xA;My proposal was to &amp;lsquo;perform the soundscape of the venue through the medium of livecoding&amp;rsquo;. What I did was to visit the venue the day before, at a quiet time, and make some recordings – a fairly typical basement club/rock venue, so I was able to wander onstage, through dressing rooms, behind the bar, into the toilets etc, all the while recording both the ambience and, in some cases, tapping or hitting objects of particular interest – there was a group of CO2 cylinders that were particularly nice.</description>
+    </item>
+    <item>
+      <title>Layering visuals with SuperCollider</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-08-12-layering-visuals-with-supercollider/</link>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-08-12-layering-visuals-with-supercollider/</guid>
+      <description>When I was at emfcamp last week, I saw a couple of instances of people layering up visuals with their code. Claudius Maximus had that going with his clive system, SonicPi (and Gibber??) can do it out of the box, and Shelly Knotts had some sort of setup for (I think?) doing it completely within SuperCollider, with the cool idea of a webcam pointing down at her hands on the keyboard.</description>
+    </item>
+    <item>
+      <title>Getting my fingers burned</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-07-28-getting-my-fingers-burned/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-07-28-getting-my-fingers-burned/</guid>
+      <description>Sooner or later, I&amp;rsquo;m going to have to get back to the &amp;lsquo;ol soldering iron:&#xA;I have a plan: to reconstruct the PE Minisonic you can see above, that I made while I was in school. I still have some of the boards…</description>
+    </item>
+    <item>
+      <title>Here&#39;s my screen</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-07-13-myscreen/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-07-13-myscreen/</guid>
+      <description>Show us your screens! Ok, well at last maybe I&amp;rsquo;m ready. Here&amp;rsquo;s five minutes or so of me improvising in SuperCollider that&amp;rsquo;s not as embarrassing as some of my other attempts:&#xA;https://www.youtube.com/watch?v=Zhprsv_c27o&#xA;The code is on GitHub if anyone is madly interested.</description>
+    </item>
+    <item>
+      <title>First public livecode</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-04-26-first-public-livecode/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-04-26-first-public-livecode/</guid>
+      <description>Last night I stumbled into my first public outing of some livecoding I&amp;rsquo;ve been working on in SuperCollider. The context was an improvisation night called In Tandem run by Bruce Wallace at the Academy of Music and Sound in Glasgow. I hadn&amp;rsquo;t intended to play, as I really don&amp;rsquo;t feel I&amp;rsquo;m ready yet, but I had my laptop and cables with me, they had a projector, so…!&#xA;I was jamming along with three other people, on bass, guitar and analog synth.</description>
+    </item>
+    <item>
+      <title>Recursive synthesis</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/</guid>
+      <description>I&amp;rsquo;ve been working for a while with an improvising setup that uses what is sometimes jokingly called &amp;lsquo;recursive synthesis&amp;rsquo; – that is, plugging an effect unit back in to itself and experimenting with the no-input feedback sounds.&#xA;Today I&amp;rsquo;ve had some success with the next step in developing this system. I&amp;rsquo;ve written a SuperCollider patch that allows me to gate and pitchshift the feedback sounds, so that I can begin to find a way to play them musically using a keyboard.</description>
+    </item>
+    <item>
+      <title>Patchin&#39; at the Hague</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-03-18-patchin-at-the-hague/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-03-18-patchin-at-the-hague/</guid>
+      <description>I&amp;rsquo;ve been at the Koninklijk Conservatorium in Den Haag for the last couple of days, working with a group of academics from all over Europe on the METRIC project – &amp;lsquo;Modernizing European Higher Music Education through Improvisation&amp;rsquo;. (If anyone can tell me in which language that acronym works, I&amp;rsquo;d love to know!)&#xA;While I&amp;rsquo;m here, I&amp;rsquo;ve been amusing myself with some work on a simple SuperCollider patch to pitchshift live audio, that I intend to use as part of my own improvisational practice.</description>
+    </item>
+    <item>
+      <title>Live Coding and the Body</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2014-07-06-live-coding-and-the-body/</link>
+      <pubDate>Sun, 06 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2014-07-06-live-coding-and-the-body/</guid>
+      <description>I&amp;rsquo;ve just spent a very stimulating weekend, combining an algorave in Brighton with the Live Coding and the Body symposium at Sussex University. A packed weekend: I didn&amp;rsquo;t keep notes of exactly who and what and when, so this is a rather chaotic reflection!&#xA;The algorave was in a clubby sort of room above a pub. Code from each performer&amp;rsquo;s laptop was projected on a black behind them, while some livecoded visuals in IBNIZ were projected on an adjacent wall.</description>
+    </item>
+    <item>
+      <title>Electronics nostalgia</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-24-electronics-nostalgia/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-24-electronics-nostalgia/</guid>
+      <description>Very happy today. Been working on some electronics for the show. For me as a creator, this is a big part of what Why Scotland, Why East Kilbride is about: exploring my nostalgia for teenage evenings spent with a soldering iron, a cup of coffee, and a Hawkwind album.&#xA;Some pics below: trying to get my SN76477 prototyping station back up and running.</description>
+    </item>
+    <item>
+      <title>Horn-a-Tron</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-21-horn-a-tron/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-21-horn-a-tron/</guid>
+      <description>Some of the publicity put out for the show has perhaps been unintentionally slightly misleading! I did have a dream of having a French horn section in the show, but that dream has been realised through… technical means :)&#xA;Instead of live players, I&amp;rsquo;ve invented the &amp;lsquo;Horn-a-Tron&amp;rsquo;. This is a Pd patch which plays back midi horn sounds alongside video clips of sixteen horn players – with thanks to Steve Park for the horn vids.</description>
+    </item>
+    <item>
+      <title>Quartz Composer video sampler for WSWEK</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</link>
+      <pubDate>Sun, 27 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</guid>
+      <description>Here&amp;rsquo;s a screenshot of something I&amp;rsquo;ve been working on today for &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;:&#xA;Regular readers of this blog (ahem) will recall that this all started with a piece of music I heard in a dream, for a double rock band plus a big squad of french horns. Well, the double rock band is doable, but the french horns were going to be impractical for the gig.&#xA;So, I&amp;rsquo;m building a sort of video sampler.</description>
+    </item>
+    <item>
+      <title>Cheetah MQ8, first go</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-29-cheetah-mq8-first-go/</link>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-29-cheetah-mq8-first-go/</guid>
+      <description>I&amp;rsquo;ve just got a new toy (tx John!). It&amp;rsquo;s a Cheetah MQ8 midi sequencer. This is UK made, apparently released sometime in the late 80s as a competitor to the Alesis MMT-8. I&amp;rsquo;ve only just started to figure it out: pretty crazy trying to do everything with a combination of button presses and a tiny, dim LCD screen!&#xA;Here&amp;rsquo;s a two track improvisation, using sounds from my trusty Casio GZ-50M.</description>
+    </item>
+    <item>
+      <title>gamelan = hardcore</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-17-gamelan-hardcore/</link>
+      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-17-gamelan-hardcore/</guid>
+      <description>Don&amp;rsquo;t listen to this one at all unless you like really hardcore distortion. No, scrub that, just don&amp;rsquo;t listen to this one. Please. (Brownian walks in SuperCollider, samples &amp;amp; fx in Logic Pro.)&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2008/09/gamhum.mp3&#34;][/audio]&#xA;gamhum.mp3</description>
+    </item>
+    <item>
+      <title>Gendèr miking again</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-15-gender-miking-again/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-15-gender-miking-again/</guid>
+      <description>The gendèr miking strategy just got simpler again. After some experimentation, it turned out I was getting better results by just whacking all seven mikes in parallel and &amp;lsquo;mixing&amp;rsquo; them with a single 10k resistor. Loads of cross talk, but for this setup it doesn&amp;rsquo;t really matter. The virtual-earth op-amp design wasn&amp;rsquo;t working out, trying to make it run from a single 9v battery was giving me headaches. This is sounding pretty good, perhaps a bit too much percussive thump at the start of the note: need to find a different way of mounting the mikes, at the moment they are just blu-tacked to the casing.</description>
+    </item>
+    <item>
+      <title>Gamelan impro sliced in SuperCollider</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-11-gamelan-impro-sliced-in-supercollider/</link>
+      <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-11-gamelan-impro-sliced-in-supercollider/</guid>
+      <description>Not sure if this is really going anywhere really, but… a little bit of gendèr and ketipung impro sliced up in SuperCollider:&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2008/09/afrbfr.mp3&#34;][/audio]&#xA;afrbfr.mp3</description>
+    </item>
+    <item>
+      <title>Max speech munged in Pd</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-max-speech-munged-in-pd/</link>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-max-speech-munged-in-pd/</guid>
+      <description>http://youtu.be/5rCYUlvj2dY&#xA;Still at the point of being a tech demo, but my latest text-to-screech project has moved forward a little. Here you can see speech sounds controlled by Max 5 piped into PureData. In Pd, I&amp;rsquo;m using some old tricks with the &amp;lsquo;freeze&amp;rsquo; function in freeverb plus some pitch shifting to further play with the sound. As a potentially interesting wrinkle, the effects in Pd are turned on and off by the words typed in Max: &amp;lsquo;reverb&amp;rsquo;, &amp;lsquo;freeze&amp;rsquo; etc.</description>
+    </item>
+    <item>
+      <title>trip points one-shot cap</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-trip-points-one-shot-cap/</link>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-trip-points-one-shot-cap/</guid>
+      <description>[soundcloud url=&amp;ldquo;http://api.soundcloud.com/tracks/20785288&#34;]&#xA;&amp;rsquo;trip points one-shot cap&amp;rsquo; is (yet another) piece inspired by ripped off from alluding to Louis Andriessen&amp;rsquo;s gritty post-minimalist classic &amp;lsquo;Hoketus&amp;rsquo;.&#xA;There are two main building blocks. The first is… I was rummaging around in my box of old electronics, and found an optical theremin I&amp;rsquo;d built years ago. The IC at the heart of this is a bit of a classic, a Texas Instruments SN76477, a very early chip designed to make sounds for toys and games, also great for musical experimentation.</description>
+    </item>
+    <item>
+      <title>Gendèr mic prototype 01</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-08-gender-mic-prototype-01/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-08-gender-mic-prototype-01/</guid>
+      <description>Up to something a bit different today: electronics! Yum. I&amp;rsquo;m building a simple op-amp virtual earth mixer, which I&amp;rsquo;m going to use to combine the signal from seven cheapo tie-pin mics, one for each pair of keys. A few false starts today, bit rusty on this, but now have a simple circuit running from a 9v battery, which is producing really a very good sound indeed from a £3 mic.</description>
+    </item>
+    <item>
+      <title>Routing text-to-speech on the mac</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/</guid>
+      <description>http://www.youtube.com/watch?v=3FG_tsG7mI4&#xA;There are any number of ways of working with the built-in text-to-speech synthesis capabilities on the mac. All of the music programming languages I use - Max, Pd and SuperCollider - offer ways of doing this, and I&amp;rsquo;ve also had great success with controlling the output using AppleScript. The problem is that in every case, the audio itself is actually synthesised by the mac os itself, which means it is not accessible within an audio environment for further processing.</description>
+    </item>
+    <item>
+      <title>Yet more text-to-screech</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-yet-more-text-to-screech/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-yet-more-text-to-screech/</guid>
+      <description>There&amp;rsquo;s quite a history of musicians and sound artists doing creative things with speech synthesis. One of the best known examples is the Radiohead track Fitter Happier from the album OK Computer, and its not hard to find other cases of commercial artists incorporating this kind of material in tracks.&#xA;Very often this has been done on the mac, which has always had speech synthesis built in. (There&amp;rsquo;s a very interesting anecdote about how speech synthesis came to be included on the very first macs at the personal insistence of Steve Jobs.</description>
+    </item>
+    <item>
+      <title>fm patch</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-10-06-fm-patch/</link>
+      <pubDate>Wed, 06 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-10-06-fm-patch/</guid>
+      <description>Here&amp;rsquo;s a shot of the fm synthesis patch we threw together in PerfTech today;&#xA;And here&amp;rsquo;s what it sounds like; [soundcloud url=&amp;ldquo;http://api.soundcloud.com/tracks/5864108&#34; params=&amp;ldquo;show_comments=true&amp;amp;auto_play=false&amp;amp;color=ff7700&amp;rdquo; width=&amp;ldquo;100%&amp;rdquo; height=&amp;ldquo;81&amp;rdquo; ] Get a copy of the max patch also if you want.</description>
+    </item>
+    <item>
+      <title>Max 5 and SuperCollider using sc3~</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-06-20-max-5-and-supercollider-using-sc3/</link>
+      <pubDate>Sun, 20 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-06-20-max-5-and-supercollider-using-sc3/</guid>
+      <description>http://www.youtube.com/watch?v=vCcl7M5-V1s Another way of doing it, using the sc3~ object. I can&amp;rsquo;t quite make up my mind at the moment which is the way forward; this way it looks like you&amp;rsquo;d have to develop your code in SuperCollider, then paste it into Max and hope it still works… have a feeling the OSC bridging method is more generally useful, for instance, could use it with Pd as well. On the other hand, this way it&amp;rsquo;s all together in the one patch in a single program, to run it you don&amp;rsquo;t need SC installed, probably a lot easier to deal with when you come back to it in five years time…</description>
+    </item>
+    <item>
+      <title>Max 5 to SuperCollider using OSC</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-06-18-max-5-to-supercollider-using-osc/</link>
+      <pubDate>Fri, 18 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-06-18-max-5-to-supercollider-using-osc/</guid>
+      <description>http://www.youtube.com/watch?v=1QhG4cpS9ik&#xA;Updated # I guess it&amp;rsquo;s just possible some people might not get what&amp;rsquo;s going on here :) SuperCollider is a very powerful text-based programming language for sound. If you know what you&amp;rsquo;re doing, then with just a couple of lines of code you can create really fascinating sounds and textures, even entire compositions; see for instance sc140, an album where each piece is created using just a twitter-long 140 characters of code.</description>
+    </item>
+    <item>
+      <title>BigHexhamBook</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-04-10-bighexhambook/</link>
+      <pubDate>Sat, 10 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-04-10-bighexhambook/</guid>
+      <description>Having some free time over the Easter break, and in preparation for taking part in a performance of Cage&amp;rsquo;s Musicircus at Tramway on 30 May, I&amp;rsquo;ve been playing with the Lexicon MPX 100 effects unit which Allan Neave gave me, feeding it back into itself, which works particularly nicely on the pitch-shift-plus-delay patches. At the same time I&amp;rsquo;ve been working on a Max patch which drifts five-note chords gradually through a modulating set of hexatonic regions, so… without really meaning to, I ended up putting together a sort of ambient track combing the two;</description>
+    </item>
+    <item>
+      <title>Max/MSP to Logic</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-02-01-maxmsp-to-logic/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-02-01-maxmsp-to-logic/</guid>
+      <description>This is the sort of thing where there&amp;rsquo;s probably a video out there already explaining it, but as I ended up figuring it out myself anyway, I thought I might as well make my own video… This is how to send midi information from Max/MSP to Logic Pro, in particular how to use Max to control the automation parameters of a softsynth running in Logic. Probably best to watch these fullscreeen; http://youtu.</description>
+    </item>
+    <item>
+      <title>Sibelius versus tilde – updated</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-09-11-sibelius-versus-tilde-updated/</link>
+      <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-09-11-sibelius-versus-tilde-updated/</guid>
+      <description>A long-standing frustration of mine is the way the music notation package Sibelius handles the &amp;rsquo;tilde&amp;rsquo; sign ~ in text. As a sort of clever bodge or hack, it is used to hide midi messages, so that a control change for example can be put in the score as &amp;lsquo;~C64,127&amp;rsquo;, but won&amp;rsquo;t print out.&#xA;However, I&amp;rsquo;m of the frequent habit of using the ~ sign to mean &amp;lsquo;approximately&amp;rsquo;; I&amp;rsquo;d love to be able to mark a pause, for instance as &amp;lsquo;~45 seconds&amp;rsquo;, meaning roughly 45 seconds, but when you do that the text gets hidden.</description>
+    </item>
+    <item>
+      <title>Pd Bootcamp at the RWCMD</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-09-04-pd-bootcamp-at-the-rwcmd/</link>
+      <pubDate>Fri, 04 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-09-04-pd-bootcamp-at-the-rwcmd/</guid>
+      <description>All week I&amp;rsquo;ve been on a PureData course at the Royal Welsh College of Music and Drama, with Simon Kilshaw. PureData, or Pd, is a free and open source graphical programming language for music and video; in plain language, a system allows one to plug together a series of graphical objects on a screen in order to create an original work of digital art.&#xA;Pd is closely allied with another very similar language, Max/MSP, both having in fact been initiated by the same programmer, Miller Puckette.</description>
+    </item>
+    <item>
+      <title>yellowpuncher</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-09-02-yellowpuncher/</link>
+      <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-09-02-yellowpuncher/</guid>
+      <description>http://www.youtube.com/watch?v=jFvzKT-GeIc&#xA;Well, it&amp;rsquo;s a start; learning the basics of GEM in Pd. And, whoever would have thought that the quicktime midi synth on the mac had that &amp;lsquo;Punch&amp;rsquo; sound hidden in one of it&amp;rsquo;s alternate banks :)</description>
+    </item>
+    <item>
+      <title>text-to-screech work in progress</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-08-29-text-to-screech-work-in-progress/</link>
+      <pubDate>Sat, 29 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-08-29-text-to-screech-work-in-progress/</guid>
+      <description>I&amp;rsquo;m working on a new piece towards ARTMUSFAIR/2009, for flute, horn, cello, marimba and &amp;rsquo;tape&amp;rsquo;; this is me working towards the latter, the fixed audio part of the piece. Up to my usual text-to-screech tricks here; this shows some of the tools and methods I use to put things like this together.&#xA;[vimeo 6326582]&#xA;(If you go to the original on vimeo you can watch it pretty much full desktop size.</description>
+    </item>
+    <item>
+      <title>MuseScore</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-04-08-musescore/</link>
+      <pubDate>Wed, 08 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-04-08-musescore/</guid>
+      <description>I&amp;rsquo;m quite excited today to discover a free/open-source music notation program I hadn&amp;rsquo;t previously heard of, MuseScore. (That I hadn&amp;rsquo;t heard of it probably has something to do with the fact that they&amp;rsquo;ve only just released a mac binary.) Very early days so far, but already I&amp;rsquo;m very excited to see the beginnings of what could be a foss alternative to Sibelius and Finale, something which I think the world badly needs.</description>
+    </item>
+    <item>
+      <title>Ed bends Yamaha</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-02-15-ed-bends-yamaha/</link>
+      <pubDate>Sun, 15 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-02-15-ed-bends-yamaha/</guid>
+      <description>I was round at Eddie&amp;rsquo;s house the other day, and we had a go at circuit bending an old Yamaha RX17 drum machine;&#xA;This is pretty standard stuff, a well-known bend linking pins 4 and 12 of IC 116. After some experimentation, we decided on a 100k log pot with a 1k resistor in series. Ed is a bit iffy about the whole idea of circuit-bending, kind of goes against the grain for someone who was trained in electronic engineering!</description>
+    </item>
+    <item>
+      <title>Loudcoding?</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-12-16-loudcoding/</link>
+      <pubDate>Tue, 16 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-12-16-loudcoding/</guid>
+      <description>Managing to do the same kind of thing now in SuperCollider, speaking one word at a time, which kind of makes more sense in this context; loudcoding?&#xA;[youtube=http://www.youtube.com/watch?v=AG8hMLAXs_U&amp;amp;hl=en&amp;amp;fs=1&amp;amp;rel=0]&#xA;(Amazed at getting this to work, actually. I&amp;rsquo;m *so* not a programmer!)</description>
+    </item>
+    <item>
+      <title>More text to screech</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-12-04-more-text-to-screech/</link>
+      <pubDate>Thu, 04 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-12-04-more-text-to-screech/</guid>
+      <description>Updated version of the Bare Wires text interface;&#xA;[youtube=http://www.youtube.com/watch?v=Pi9olQyxfzE&amp;amp;hl=en&amp;amp;fs=1&amp;amp;rel=0]</description>
+    </item>
+    <item>
+      <title>Bare Wires – text to screech</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-11-29-bare-wires-text-to-screech/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-11-29-bare-wires-text-to-screech/</guid>
+      <description>Hers is a very early and approximate proof-of-concept video of a possible text-to-screech interface for &amp;lsquo;Bare Wires&amp;rsquo;;&#xA;[youtube=http://www.youtube.com/watch?v=Npii4-3awcQ&amp;amp;hl=en&amp;amp;fs=1&amp;amp;rel=0]&#xA;The idea is to have a laptop and screen onstage, visible to the audience. The setup is used by various performers during the piece, in various ways; to address the audience, or to direct an improvisation, ask questions, tell a story… anything, really.&#xA;&amp;rsquo;text-to-screech&amp;rsquo; is my coining for taking familiar text-to-speak technology built into many modern computers, and mangle it, creatively misuse it.</description>
+    </item>
+  </channel>
+</rss>

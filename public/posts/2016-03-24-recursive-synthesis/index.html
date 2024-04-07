@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/jsvdw_hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=jsvdw_hugo/livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="I&rsquo;ve been working for a while with an improvising setup that uses what is sometimes jokingly called &lsquo;recursive synthesis&rsquo; – that is, plugging an effect unit back in to itself and experimenting with the no-input feedback sounds.
+Today I&rsquo;ve had some success with the next step in developing this system. I&rsquo;ve written a SuperCollider patch that allows me to gate and pitchshift the feedback sounds, so that I can begin to find a way to play them musically using a keyboard.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Recursive synthesis" />
+<meta property="og:description" content="I&rsquo;ve been working for a while with an improvising setup that uses what is sometimes jokingly called &lsquo;recursive synthesis&rsquo; – that is, plugging an effect unit back in to itself and experimenting with the no-input feedback sounds.
+Today I&rsquo;ve had some success with the next step in developing this system. I&rsquo;ve written a SuperCollider patch that allows me to gate and pitchshift the feedback sounds, so that I can begin to find a way to play them musically using a keyboard." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2016-03-24T00:00:00+00:00" />
+<meta property="article:modified_time" content="2016-03-24T00:00:00+00:00" />
+<title>Recursive synthesis | JSvdW Hugo test</title>
+<link rel="manifest" href="/jsvdw_hugo/manifest.json">
+<link rel="icon" href="/jsvdw_hugo/favicon.png" >
+<link rel="canonical" href="http://localhost:1313/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/">
+<link rel="stylesheet" href="/jsvdw_hugo/book.min.f8d3666af559e9590215dba2158127976df19ef623d0be35c6765ea14d98350f.css" integrity="sha256-&#43;NNmavVZ6VkCFduiFYEnl23xnvYj0L41xnZeoU2YNQ8=" crossorigin="anonymous">
+  <script defer src="/jsvdw_hugo/flexsearch.min.js"></script>
+  <script defer src="/jsvdw_hugo/en.search.min.d17283a5f696a2f9df43cb930b5ee6856a5184b8cbbe2f16a6d4d670b744fe68.js" integrity="sha256-0XKDpfaWovnfQ8uTC17mhWpRhLjLvi8WptTWcLdE/mg=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/jsvdw_hugo/"><span>JSvdW Hugo test</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Works</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/2008-02-29-scam/" class="">The Society for Classical and Authentic Music</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-b86813cf18f514c18a53bf1c7586c09d" class="toggle"  />
+    <label for="section-b86813cf18f514c18a53bf1c7586c09d" class="flex justify-between">
+      <a href="/jsvdw_hugo/docs/works/works-section/" class="">Works Section</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/first-page/" class="">First Page</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/second-page/" class="">Second Page</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/jsvdw_hugo/posts/"  >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/jsvdw_hugo/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Recursive synthesis</strong>
+
+  <label for="toc-control">
+    
+    <img src="/jsvdw_hugo/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown book-post">
+  <h1>
+    <a href="/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/">Recursive synthesis</a>
+  </h1>
+  
+  <h5>March 24, 2016</h5>
+
+
+
+  
+  <div>
+    
+      <a href="/jsvdw_hugo/categories/news/">News</a>, 
+      <a href="/jsvdw_hugo/categories/tech/">Tech</a>
+  </div>
+  
+
+  
+
+
+
+<p><img src="images/recursivesynth.jpg" alt="recursivesynth.jpg" /></p>
+<p>I&rsquo;ve been working for a while with an improvising setup that uses what is sometimes jokingly called &lsquo;recursive synthesis&rsquo; – that is, plugging an effect unit back in to itself and experimenting with the no-input feedback sounds.</p>
+<p>Today I&rsquo;ve had some success with the next step in developing this system. I&rsquo;ve written a <a href="http://supercollider.github.io/">SuperCollider</a> patch that allows me to gate and pitchshift the feedback sounds, so that I can begin to find a way to play them musically using a keyboard. Here&rsquo;s the very first run at playing this system: careful, some rather loud and uncontrolled noises here!</p>
+<p>[audio src=&ldquo;<a href="https://tedthetrumpet.files.wordpress.com/2008/09/recursor01demoedit.mp3%22">https://tedthetrumpet.files.wordpress.com/2008/09/recursor01demoedit.mp3"</a>][/audio]</p>
+<p><a href="https://tedthetrumpet.files.wordpress.com/2008/09/recursor01demoedit.mp3">recursor01demoedit.mp3</a></p>
+<p>In the picture, you can see the work-in-progress setup. There&rsquo;s a cheapo DigiTech RP55 guitar pedal feeding back through a small mixing desk. I&rsquo;m using a swell pedal to contral some of the parameters of the various fx from the DigiTech, particularly sweeping the pitch of the &lsquo;whammy&rsquo; and &lsquo;pitch shift&rsquo; functions, set up in various presets. The mixing desk is not entirely necessary, but the tone controls are useful to have in the feedback loop.</p>
+<p>Below is the code for the SuperCollider patch. As always, my thanks to the developers of this software, and all the help received from the community on the <a href="http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/">mailing list</a>. <code>( fork{ ~velbus = Bus.control.set(1); // not using yet s.sync; SynthDef(\pitchin, { | midinote = 60, gate = 1, amp = 0.1 | var in, sig, env, ratio, trans, shift, sel; trans = midinote - 60; in = SoundIn.ar([0,1]); ratio = trans.midiratio; shift = PitchShift.ar(in, pitchRatio: ratio, timeDispersion: 0.1); sel = trans.abs &gt; 0; sig = Select.ar(sel, [in, shift]); env = EnvGen.kr(Env.adsr, gate, doneAction: 2); Out.ar(0, sig * env * amp * 37) // compensate for quiet; }).add; }; MIDIClient.init; MIDIIn.connectAll; ~on.free; ~off.free; ~cc1.free; ~notes = Array.newClear(128); // array one slot per MIDI note ~on = MIDIFunc.noteOn({ |veloc, num, chan, src| ~notes[num] = Synth(\pitchin, [\midinote, num, \amp, veloc * 0.2/127]); }); ~off = MIDIFunc.noteOff({ |veloc, num, chan, src| ~notes[num].release; }); ~cc1 = MIDIFunc.cc({ |val| val.postln; ~velbus.set(val/127*4); }, 1, 0 ); // cc1 on channel 0 = midi channel 1, not using yet )</code></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

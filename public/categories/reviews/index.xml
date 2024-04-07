@@ -2,17 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reviews on JSvdW Hugo test</title>
-    <link>http://localhost:1313/categories/reviews/</link>
+    <link>http://localhost:1313/jsvdw_hugo/categories/reviews/</link>
     <description>Recent content in Reviews on JSvdW Hugo test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2006 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jsvdw_hugo/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some notes from a concert</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-01-26-some-notes-from-a-concert/</link>
+      <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-01-26-some-notes-from-a-concert/</guid>
+      <description>Took the time to go to a concert of contemporary music tonight, a rare pleasure for me these days. Psappha, at the Royal Conservatoire of Scotland, playing a concert of largely new work. Sean Friar&amp;rsquo;s Scale 9 which opened the programme was likeable and energetic, a sort of andante and allegro, or rather andante and blues, in a post- (very-post-) Gershwin vein. Nice to see an ensemble conducting themselves.&#xA;I like my flavours strong and simple, and Francesca Le Lohé&amp;rsquo;s Blind Men and an Elephant was a little too detailed and finely wrought for my taste.</description>
+    </item>
+    <item>
+      <title>Bare Wires in the Skinny</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-03-13-bare-wires-in-the-skinny/</link>
+      <pubDate>Fri, 13 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-03-13-bare-wires-in-the-skinny/</guid>
+      <description>Nice piece on &amp;lsquo;Bare Wires&amp;rsquo; by Clare Sinclair in the Skinny;&#xA;&amp;lsquo;The lines between technology and the arts are blurring at an astronomical pace: the latest laptops and computers position themselves not only as tools for business, but as home entertainment centres where anything seems possible.&#xA;J. Simon van der Walt, performing as part of the Cryptic Nights season, parallels this revolution yet takes it back to the &amp;lsquo;Bare Wires&amp;rsquo;. As Edward &amp;lsquo;Teddy&amp;rsquo; Edwards and the Electr-O-Chromatic orchestra, he presents and electronic symphony of music and performance.</description>
+    </item>
+    <item>
+      <title>The Whirlies – success!</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-11-20-the-whirlies-success/</link>
+      <pubDate>Thu, 20 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-11-20-the-whirlies-success/</guid>
+      <description>The performance of The Whirlies the other night was a bit of a stunning success. Good audience, including the arts editor of the Herald, Keith Bruce, who seemed to really get the piece;&#xA;&amp;lsquo;The new music came from J Simon van der Walt, whose The Whirlies pitted his own prepared multiphonic scrabbling with table-top banjo ukulele and electronic gizmos against lush concert-orchestra strings - a collision only enhanced by the shattering of a glass behind the bar.</description>
+    </item>
     <item>
       <title>Great review for ‘Schaduwee’</title>
-      <link>http://localhost:1313/posts/2006-05-04-great-review-for-schaduwee/</link>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2006-05-04-great-review-for-schaduwee/</link>
       <pubDate>Thu, 04 May 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2006-05-04-great-review-for-schaduwee/</guid>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2006-05-04-great-review-for-schaduwee/</guid>
       <description>Well, Gareth and I got a really excellent review for our concert last night from Michael Tumelty in the Glasgow Herald;&#xA;&amp;lsquo;Let&amp;rsquo;s not mess about. Never mind technical shortcomings, rough edges, the fractured tenor who was clearly in discomfort. Last night&amp;rsquo;s offering by RSAMD students in the academy&amp;rsquo;s festival of new music, Plug, gets five stars for the originality of creative thought that flowed from student composers Simon van der Walt and Gareth Williams into two new works for theatrical performance.</description>
     </item>
   </channel>

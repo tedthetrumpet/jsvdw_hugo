@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on JSvdW Hugo test</title>
+    <link>http://localhost:1313/jsvdw_hugo/categories/news/</link>
+    <description>Recent content in News on JSvdW Hugo test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jsvdw_hugo/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;El laberinto&#39; at New Music Scotland awards</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2023-08-24-el-laberinto-at-new-music-scotland-awards/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2023-08-24-el-laberinto-at-new-music-scotland-awards/</guid>
+      <description>Just heard that my new piece &amp;lsquo;El laberinto&amp;rsquo; for voice, bass clarinet and general MIDI is going to be performed by Stephanie Lamprea and Alex South at the Scottish Awards for New Music 2023 on 1st September.&#xA;I say &amp;rsquo;new piece&amp;rsquo; – effectively this is revisiting and recontextualisation of an earlier piece &amp;lsquo;El laberinto de mi mente&amp;rsquo;.&#xA;Here&amp;rsquo;s what I&amp;rsquo;ve written about the new version:&#xA;The world has changed a lot since 1998, and I feel much less comfortable about my place in it.</description>
+    </item>
+    <item>
+      <title>Looking back over the year</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2020-12-21-looking-back-over-the-year/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2020-12-21-looking-back-over-the-year/</guid>
+      <description>The tempation to &amp;lsquo;share&amp;rsquo; on proprietary online platforms means that I don&amp;rsquo;t document my work here as frequently as I should! So, here&amp;rsquo;s a roundup of some things I&amp;rsquo;ve produced this year: as much a reminder to myself as anything else.&#xA;February ‘Perang Gagal: a Series of Inconclusive Battles’ at ICLC Limerick https://www.youtube.com/watch?v=N6PXoRHwWFY https://github.com/tedthetrumpet/Perang-Gagal March two performances at Euleroom Equinox, a busk followed later by the &amp;lsquo;official&amp;rsquo; set http://equinox.eulerroom.com/schedule.html https://youtu.be/AmF-L1WfPl8 https://youtu.</description>
+    </item>
+    <item>
+      <title>Subsonic workshop and algorave</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2020-02-04-subsonic-workshop-and-algorave/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2020-02-04-subsonic-workshop-and-algorave/</guid>
+      <description>Claire Quigley and Miriam Iorweth are curating a &amp;lsquo;Subsonic&amp;rsquo; workshop and algorave at the Scottish Submarine Centre on Friday 20 March as part of the Euleroom Equinox 2020 livecoding event.&#xA;There is an introductory workshop 1930 to 2030, followed by an algorave 2030 to 1030. The workshop is free, the algorave is pay what you want.&#xA;If you&amp;rsquo;d like to take part in the workshop or are interested in performing at the algorave, contact Miriam:</description>
+    </item>
+    <item>
+      <title>Livecoding brass</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-brass/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-brass/</guid>
+      <description>As 2019 draws to a close, I’m spending some time getting ready for the International Conference on Livecoding in February in Limerick. I put in two proposals. The first of these was to be called The ‘All-Pressure No-Method’ System, and would have involved me working with four live brass players. I say ‘would have’: this has had to be abandoned, we were not able to fund the travel and accomodation for the players.</description>
+    </item>
+    <item>
+      <title>Livecoding gamelan</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-gamelan/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-livecoding-gamelan/</guid>
+      <description>The work that I will be taking to ICLC 2020 in Limerick is entitled ‘Perang Gagal: a Series of Inconclusive Battles’, and is a collaboration with Professor Mel Mercier at the Irish Word Academy of Music and Dance. I will performing livecode in SuperCollider as part of a small gamelan ensemble let by Mel. Here’s the demo video I submitted to the conference call:&#xA;https://youtu.be/yN1STGvmRqY&#xA;I had thought that the eventual piece would be straightforward to devise, but it is proving trickier than I thought.</description>
+    </item>
+    <item>
+      <title>That syncing feeling</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-that-syncing-feeling/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-12-31-that-syncing-feeling/</guid>
+      <description>In order to be able to work up sketches for ‘Perang Gagal’ at ICLC in Limerick, I wanted to use Logic to compose demos of the material for the live players that I could then improvise with in SuperCollider. This poses the problem of how to sync the pulse and tempo between the two programmes, which proved annoyingly difficult to accomplish!&#xA;Ideally, I would have liked to set the tempo in SuperCollider for Logic to follow.</description>
+    </item>
+    <item>
+      <title>Algorave at Radiophrenia</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-05-22-algorave-at-radiophrenia/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-05-22-algorave-at-radiophrenia/</guid>
+      <description>This week I&amp;rsquo;m taking my algorave work in a new direction. In collaboration with Bill Whitmer, we are going to be presenting a half-hour show called &amp;lsquo;Radio Automata Live in the Studio&amp;rsquo; as part of Radiophrenia, a temporary art radio station broadcasting from the CCA in Glasgow.&#xA;The idea for the show is: if the last remaining creative decisions in broadcast radio were entirely automatic, would anyone notice? Bill has been experimenting with algorithmically generated text and chatbots for the spoken part of the show.</description>
+    </item>
+    <item>
+      <title>Algorave at Sound Thought</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-02-18-algorave-at-sound-thought/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-02-18-algorave-at-sound-thought/</guid>
+      <description>I shared an algorave spot at Sound Thought with Claire Quigley, that was streamed as part of the TOPLAP 15th anniversary stream. You can see her set here and mine is here, although I have to say not that happy with the way my performance turned out on the day. The rehearsal was better:&#xA;https://youtu.be/zQwASJEnYEY&#xA;As you can see, combining my livecoding work with my passion for table tennis! And, in fact, this was a new technical discovery just the day before: it is possible to use Atom to livecode simultaneously in Hydra and SuperCollider, using a plugin for SC.</description>
+    </item>
+    <item>
+      <title>Callout for Scottish algo-ravers 16-2-2019</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2019-01-28-callout-for-scottish-algo-ravers-16-2-2019/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2019-01-28-callout-for-scottish-algo-ravers-16-2-2019/</guid>
+      <description>I&amp;rsquo;m looking for music and/or visual artists working with live code who are interested in joining me for an improvised algorave as part of Sound Thought 2019.&#xA;‘Livecoding’ is a practice where creative artists who work with computer code perform live, often producing music and/or visuals, with the audience typically able to watch the evolution of the code on a projected screen. ‘Algorave’ is a subgenre where the aim is to produce beat-driven music and/or visuals for dancing.</description>
+    </item>
+    <item>
+      <title>Interview at Sheffield Algorave</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-09-01-interview-at-sheffield-algorave/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-09-01-interview-at-sheffield-algorave/</guid>
+      <description>A short interview that Reverb Magazine did with me at the Sheffield Algorave 01/09/2018 – talking about combining livecoding, gamelan samples, and trumpet playing.&#xA;https://youtu.be/wX51frpG0TY</description>
+    </item>
+    <item>
+      <title>Livecoding Erraid</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-04-21-livecoding-erraid/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-04-21-livecoding-erraid/</guid>
+      <description>https://flic.kr/p/fCkH4E&#xA;On a number of occasions I have used sounds collected at a particular location as a coherent set of resources for a livecoded set. For the last week I&amp;rsquo;ve been in retreat on with the community on the isle of Erraid, which has been a welcome break from the city!&#xA;One of the features of the island is the &amp;lsquo;observatory&amp;rsquo;. This is a circular tin structure, about two meters across by three high: a restored remnant of the building of the Dubh Artach lighthouse that took place there between 1867 and 1872.</description>
+    </item>
+    <item>
+      <title>Not algorave</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-04-15-not-algorave/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-04-15-not-algorave/</guid>
+      <description>I&amp;rsquo;m interested in now taking the SuperCollider livecoding techniques that I&amp;rsquo;ve developed in the context of algorave and applying them to the creation of fixed media sound works. Here is one, using some prepared piano samples that Dr Kurt James Werner has been kind enough to put online.&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2018/04/pylon-country.mp3&#34;][/audio]&#xA;pylon-country.mp3&#xA;It&amp;rsquo;s not perfect: there is still a strong element of improvisation in this way of working, and there are places in this track where, on listening back, I might have wished to have performed differently.</description>
+    </item>
+    <item>
+      <title>Livecode improvisation with Anne-Liis Poll</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-04-12-livecode-improvisation-with-anne-liis-poll/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-04-12-livecode-improvisation-with-anne-liis-poll/</guid>
+      <description>As part of the team that organised the third METRIC Improvisation Intensive at the Royal Conservatoire of Glasgow, I did not have as much time as I might have liked to improvise myself. I was pleased however to be joined for an impromptu livecoded session by Anne-Liis Poll, Professor of Improvisation at the Estonian Academy of Music and Theatre:&#xA;[youtube https://www.youtube.com/watch?v=RjlTZuKa7iw?rel=0]&#xA;This did not quite turn out the way I had intended!</description>
+    </item>
+    <item>
+      <title>Livecoding again</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2018-02-16-livecoding-again/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2018-02-16-livecoding-again/</guid>
+      <description>Back at the livecoding again. A couple of weeks ago, a quite succesful workshop for the students on the Interactive Composition module at the Royal Conservatoire of Scotland. Coming up: a couple of things. In March there is going to be another long-form online algorave that I&amp;rsquo;ll be contributing a half-hour set to, Friday 16th at 1330 GMT. In April the METRIC Intensive III at the RCS sees staff and students converge on Glasgow for a week of improvisation: again, as well as leading some gamelan improvisation, expect to be SuperColliding as well.</description>
+    </item>
+    <item>
+      <title>Giving a workshop in Jakarta</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2017-07-14-giving-a-workshop-in-jakarta/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2017-07-14-giving-a-workshop-in-jakarta/</guid>
+      <description>My institution, The Royal Conservatoire of Glasgow, have sent me on a trip to make connections with a number of potential partners in Indonesia, including the UPH Conservatory of Music, the Jakarta Institute of Arts (IKJ), and Institut Seni Indonesia Surakarta (ISI Solo). I&amp;rsquo;ll also be visiting Singapore to see Setan Jawa, and talk to the producers about bringing this to Glasgow for a Festival of Gamelan and the Moving Image that we are planning here for September.</description>
+    </item>
+    <item>
+      <title>Ubuntu Studio, SuperCollider, Dell Inspirion 11 3000 - success!</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2017-05-27-merapisuccess/</link>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2017-05-27-merapisuccess/</guid>
+      <description>Having a very positive experience at the moment with Ubuntu Studio 17.04 running SuperCollider 3.8.0 on a £150 refurb 11&amp;quot; Dell Inspiron. Apart from an initial UEFI glitch with getting it to boot, Ubuntu Studio installed easily and works seamlessly so far. The SuperCollider install was made simple by this script install_supercollider_sc3plugins_buntu.sh from @theseansco – thanks Sean! When it came to actually booting SuperCollider, I did not even need to mess around with Jack or any other at all, everything on the audio side seems to just work.</description>
+    </item>
+    <item>
+      <title>Getting ready to be five (/four)</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2017-03-08-getting-ready-to-be-five-four/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2017-03-08-getting-ready-to-be-five-four/</guid>
+      <description>Next Friday I’m going to to be taking part in a 24 hour online algorave event wearefive to celebrate five years of the algorave movement. By accident or design I’m on back to back with coï¿¥ï¾¡pt (aka Sean Cotterill) who is one of only a couple of us livecoding in pure SuperCollider, rather than the by-now overwelmingly popular TidalCycles.&#xA;Sean has been putting together an interesting set of pages on his approach to livecoding in SC, particularly on the things that need to be set up beforehand.</description>
+    </item>
+    <item>
+      <title>Rave the Space</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-10-06-rave-the-space/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-10-06-rave-the-space/</guid>
+      <description>Last night I gave a performance called &amp;lsquo;Rave the Space&amp;rsquo; at Stereo in Glasgow, part of a series of events called INTER run by Iain Findlay-Walsh &amp;lsquo;creating a focused, public listening context for deep experiments in / with sound&amp;rsquo;.&#xA;My proposal was to &amp;lsquo;perform the soundscape of the venue through the medium of livecoding&amp;rsquo;. What I did was to visit the venue the day before, at a quiet time, and make some recordings – a fairly typical basement club/rock venue, so I was able to wander onstage, through dressing rooms, behind the bar, into the toilets etc, all the while recording both the ambience and, in some cases, tapping or hitting objects of particular interest – there was a group of CO2 cylinders that were particularly nice.</description>
+    </item>
+    <item>
+      <title>Getting my fingers burned</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-07-28-getting-my-fingers-burned/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-07-28-getting-my-fingers-burned/</guid>
+      <description>Sooner or later, I&amp;rsquo;m going to have to get back to the &amp;lsquo;ol soldering iron:&#xA;I have a plan: to reconstruct the PE Minisonic you can see above, that I made while I was in school. I still have some of the boards…</description>
+    </item>
+    <item>
+      <title>Here&#39;s my screen</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-07-13-myscreen/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-07-13-myscreen/</guid>
+      <description>Show us your screens! Ok, well at last maybe I&amp;rsquo;m ready. Here&amp;rsquo;s five minutes or so of me improvising in SuperCollider that&amp;rsquo;s not as embarrassing as some of my other attempts:&#xA;https://www.youtube.com/watch?v=Zhprsv_c27o&#xA;The code is on GitHub if anyone is madly interested.</description>
+    </item>
+    <item>
+      <title>A visit to CoPeCo</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-06-27-a-visit-to-copeco/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-06-27-a-visit-to-copeco/</guid>
+      <description>In my day job in charge of the masters programmes in music at the RCS, I can&amp;rsquo;t help but be interested in innovative new models of postgraduate study. So I was very happy to be able to visit Hamburg this week to observe the CoPeCo programme in action. This is a joint European masters in contemporary performance and composition, where the students study in four different institutions in Estonia, Sweden, France and Germany.</description>
+    </item>
+    <item>
+      <title>First public livecode</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-04-26-first-public-livecode/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-04-26-first-public-livecode/</guid>
+      <description>Last night I stumbled into my first public outing of some livecoding I&amp;rsquo;ve been working on in SuperCollider. The context was an improvisation night called In Tandem run by Bruce Wallace at the Academy of Music and Sound in Glasgow. I hadn&amp;rsquo;t intended to play, as I really don&amp;rsquo;t feel I&amp;rsquo;m ready yet, but I had my laptop and cables with me, they had a projector, so…!&#xA;I was jamming along with three other people, on bass, guitar and analog synth.</description>
+    </item>
+    <item>
+      <title>Recursive synthesis</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-03-24-recursive-synthesis/</guid>
+      <description>I&amp;rsquo;ve been working for a while with an improvising setup that uses what is sometimes jokingly called &amp;lsquo;recursive synthesis&amp;rsquo; – that is, plugging an effect unit back in to itself and experimenting with the no-input feedback sounds.&#xA;Today I&amp;rsquo;ve had some success with the next step in developing this system. I&amp;rsquo;ve written a SuperCollider patch that allows me to gate and pitchshift the feedback sounds, so that I can begin to find a way to play them musically using a keyboard.</description>
+    </item>
+    <item>
+      <title>Patchin&#39; at the Hague</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-03-18-patchin-at-the-hague/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-03-18-patchin-at-the-hague/</guid>
+      <description>I&amp;rsquo;ve been at the Koninklijk Conservatorium in Den Haag for the last couple of days, working with a group of academics from all over Europe on the METRIC project – &amp;lsquo;Modernizing European Higher Music Education through Improvisation&amp;rsquo;. (If anyone can tell me in which language that acronym works, I&amp;rsquo;d love to know!)&#xA;While I&amp;rsquo;m here, I&amp;rsquo;ve been amusing myself with some work on a simple SuperCollider patch to pitchshift live audio, that I intend to use as part of my own improvisational practice.</description>
+    </item>
+    <item>
+      <title>Gamelan Composers Forum</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2016-03-14-gamelan-composers-forum/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2016-03-14-gamelan-composers-forum/</guid>
+      <description>Yesterday I was in London with the Gamelan Composer&amp;rsquo;s Forum, an occasional collective brought together by Aris Daryono and Rob Campion to share approaches to writing for the gamelan. This particular event the series is entitled &amp;lsquo;The Intimate Gamelan&amp;rsquo;, and features three pieces written for a gadhon-size ensemble, performing in a private house in South London.&#xA;There were three new pieces. &amp;lsquo;Sang Empu&amp;rsquo; (&amp;lsquo;The Maestro&amp;rsquo;) was Aris&amp;rsquo; piece scored for cello and ciblon, the cello part being taken by Alice Jones.</description>
+    </item>
+    <item>
+      <title>Working on new music for gamelan</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2015-12-31-working-on-new-music-for-gamelan/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2015-12-31-working-on-new-music-for-gamelan/</guid>
+      <description>Over the winter break, I&amp;rsquo;ve been working on some new music for gamelan. Following on from Naga Mas&amp;rsquo; rather spectacular success with our gamelan-in-outer-space piece Gamelan Untethered, we have plans to do something along the same lines, but this time on an underwater theme. Below is a midi demo of something I&amp;rsquo;m working on for the group: a sort of sampak/kebyar fusion piece, pulling together some of the livelier ideas from the Javanese traditions with a Balinese-inspired melody.</description>
+    </item>
+    <item>
+      <title>Live Coding and the Body</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2014-07-06-live-coding-and-the-body/</link>
+      <pubDate>Sun, 06 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2014-07-06-live-coding-and-the-body/</guid>
+      <description>I&amp;rsquo;ve just spent a very stimulating weekend, combining an algorave in Brighton with the Live Coding and the Body symposium at Sussex University. A packed weekend: I didn&amp;rsquo;t keep notes of exactly who and what and when, so this is a rather chaotic reflection!&#xA;The algorave was in a clubby sort of room above a pub. Code from each performer&amp;rsquo;s laptop was projected on a black behind them, while some livecoded visuals in IBNIZ were projected on an adjacent wall.</description>
+    </item>
+    <item>
+      <title>About ‘Why Scotland, Why East Kilbride’</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-28-about-why-scotland-why-east-kilbride/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-28-about-why-scotland-why-east-kilbride/</guid>
+      <description>I’ve been calling myself a ‘composer’ for about twenty years now, starting from when I went back to music college as a trumpet player but got sidetracked into writing music instead of playing it. On my website you’ll find early pieces like ‘Rate-limiting Step’ for cello &amp;amp; harp, or ‘Studies of Nucleate Boiling in Thin Liquid Layers (Part 1)’ for chamber ensemble. This is what people usually think of when I say I’m a ‘composer’: someone who writes contemporary score-based music for classically trained instrumentalists to play.</description>
+    </item>
+    <item>
+      <title>Electronics nostalgia</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-24-electronics-nostalgia/</link>
+      <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-24-electronics-nostalgia/</guid>
+      <description>Very happy today. Been working on some electronics for the show. For me as a creator, this is a big part of what Why Scotland, Why East Kilbride is about: exploring my nostalgia for teenage evenings spent with a soldering iron, a cup of coffee, and a Hawkwind album.&#xA;Some pics below: trying to get my SN76477 prototyping station back up and running.</description>
+    </item>
+    <item>
+      <title>Horn-a-Tron</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-21-horn-a-tron/</link>
+      <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-21-horn-a-tron/</guid>
+      <description>Some of the publicity put out for the show has perhaps been unintentionally slightly misleading! I did have a dream of having a French horn section in the show, but that dream has been realised through… technical means :)&#xA;Instead of live players, I&amp;rsquo;ve invented the &amp;lsquo;Horn-a-Tron&amp;rsquo;. This is a Pd patch which plays back midi horn sounds alongside video clips of sixteen horn players – with thanks to Steve Park for the horn vids.</description>
+    </item>
+    <item>
+      <title>Why Scotland, Why Strathclyde Uni?</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-17-why-scotland-why-strathclyde-uni/</link>
+      <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-17-why-scotland-why-strathclyde-uni/</guid>
+      <description>A couple of interesting connections between the show and the University of Strathclyde. The first is – and I didn&amp;rsquo;t spot this till the other day – it&amp;rsquo;s actually mentioned in the original movie. At around 16 minutes, during the segment where Bruce and Mark visit the National Engineering Laboratory, there&amp;rsquo;s this exchange:&#xA;NEL Employee: We&amp;rsquo;ve got about three hundred and forty engineering graduates and scientific workers here, so we can tackle all sorts of engineering problems.</description>
+    </item>
+    <item>
+      <title>Update on &#39;Why Scotland, Why East Kilbride&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-06-update-on-why-scotland-why-east-kilbride/</link>
+      <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-06-update-on-why-scotland-why-east-kilbride/</guid>
+      <description>Exactly a month to go now to &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;, my Cryptic Nights show at the CCA. Today I met with Steve Ford, who, as well as playing bass is going to be doing the live audio chemistry. Here&amp;rsquo;s an example of the kind of thing we won&amp;rsquo;t be doing: Somehow that one never got through the risk assessment :)</description>
+    </item>
+    <item>
+      <title>First performance of RITE for four pianos and electronics</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-03-07-first-performance-of-rite-for-four-pianos-and-electronics/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-03-07-first-performance-of-rite-for-four-pianos-and-electronics/</guid>
+      <description>Rather cool to be sharing the bill with &amp;lsquo;Six Pianos&amp;rsquo; tomorrow night. Call me a boring old minimalist, but I still love that piece.&#xA;Here&amp;rsquo;s the lineup:&#xA;Multiple Piano Extravaganza 7.30pm Stevenson Hall, Royal Conservatoire of Scotland £9.50/£6.50&#xA;Steve Reich Six pianos Jonathan Plowright, Alina Horvath, Maraike Breuning, Monika Palsauskaite, Catherine Clark, Donal McHugh&#xA;Vera Stanojevic Droplets of Dew for 4 pianos and electronics (World Premiere) Sinae Lee, Graeme McNaught, Fali Pavri and Aaron Shorr</description>
+    </item>
+    <item>
+      <title>More work in progress on RITE – pics</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-02-21-more-work-in-progress-on-rite-pics/</link>
+      <pubDate>Thu, 21 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-02-21-more-work-in-progress-on-rite-pics/</guid>
+      <description>From the second rehearsal for RITE: pianists Sinae Lee, Fionnuala Ward, Beth Jerem and Marlon Bordas Gonzalez trying out the fx units, and my script for the piece so far.&#xA;RITE for for four performers, four pianos, and four effects units: Friday March 8, 1930, Royal Conservatoire of Scotland. Also featuring works by Steve Reich and Vera Stanojevic, improvisations by Alistair MacDonald, Anto Pett, and Anne-Liis Poll.</description>
+    </item>
+    <item>
+      <title>Quartz Composer video sampler for WSWEK</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</link>
+      <pubDate>Sun, 27 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</guid>
+      <description>Here&amp;rsquo;s a screenshot of something I&amp;rsquo;ve been working on today for &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;:&#xA;Regular readers of this blog (ahem) will recall that this all started with a piece of music I heard in a dream, for a double rock band plus a big squad of french horns. Well, the double rock band is doable, but the french horns were going to be impractical for the gig.&#xA;So, I&amp;rsquo;m building a sort of video sampler.</description>
+    </item>
+    <item>
+      <title>First rehearsal for &#39;Why Scotland, Why East Kilbride&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2013-01-19-first-rehearsal-for-why-scotland-why-east-kilbride/</link>
+      <pubDate>Sat, 19 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-01-19-first-rehearsal-for-why-scotland-why-east-kilbride/</guid>
+      <description>We&amp;rsquo;ve just had the first rehearsal for &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;, which is a new piece I&amp;rsquo;m putting together for Cryptic Nights, 4 &amp;amp; 5 July of this year. This piece is a fantasy: an reimagination of my own East Kilbride childhood, as expressed through the medium of my alter ego Edward &amp;lsquo;Teddy&amp;rsquo; Edwards, unsung hero of early British electronica.&#xA;The musical starting point for this piece was a dream I had, where I heard a fragment of music for what seemed to be a double rock band plus an orchestral horn section.</description>
+    </item>
+    <item>
+      <title>Work in progress - RITE</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-11-27-work-in-progress-rite/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-11-27-work-in-progress-rite/</guid>
+      <description>I&amp;rsquo;m working on three pieces of music at the moment. Well, that is, I&amp;rsquo;m supposed to be working on three pieces of music at the moment – today I actually managed to get some work done on two of them, at any rate.&#xA;The big project I have on the go is Why Scotland, Why East Kilbride, a music theatre piece for Cryptic Nights, CCA Glasgow 4 &amp;amp; 5 July next year.</description>
+    </item>
+    <item>
+      <title>Sonifying IR spectroscopy data – rhythm</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-07-20-sonifying-ir-spectroscopy-data-rhythm/</link>
+      <pubDate>Fri, 20 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-07-20-sonifying-ir-spectroscopy-data-rhythm/</guid>
+      <description>For today&amp;rsquo;s exciting episode, I&amp;rsquo;m using the simplified spectrum data from glycine to generate a sound, and then looping round the same data to play the sound in a kind of &amp;lsquo;rhythm&amp;rsquo;:&#xA;[sourcecode] ( ~name = &amp;#34;glycine&amp;#34;; ~path = Document.current.dir.asString++&amp;#34;/&amp;#34;++ ~name ++&amp;#34;.csv&amp;#34;; f = CSVFileReader.readInterpret(~path); f = ((f.flop[1] * -1) + 1).normalize; f = (f*100).asInteger; f = f.differentiate.removeEvery([0]).integrate; f = f/100; ~peaksIndices = f.differentiate.sign.findAll([1,-1]); g = Array.fill(f.size, 0); ~peaksIndices.do { |i| g[i] = f[i] }; // Daniel&amp;#39;s line ~amps = g; // [f,~amps].</description>
+    </item>
+    <item>
+      <title>Sonifying IR spectroscopy data - finding peaks</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-07-19-sonifying-ir-spectroscopy-data-finding-peaks/</link>
+      <pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-07-19-sonifying-ir-spectroscopy-data-finding-peaks/</guid>
+      <description>Emperor Joseph II: Well, I mean occasionally it seems to have, how shall one say? [he stops in difficulty; turning to Orsini-Rosenberg] How shall one say, Director? Orsini-Rosenberg: Too many notes, Your Majesty? Emperor Joseph II: [to Mozart] Exactly. Very well put. Too many notes. From Amadeus (1984)&#xA;It occured to me after a while that my previous attempts at dealing with these sets of data were running into a &amp;rsquo;too many notes&amp;rsquo; problem: 784 resonators at once is always likely to sound like noise!</description>
+    </item>
+    <item>
+      <title>Sonifying IR spectroscopy data - automating pitch</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-07-18-sonifying-ir-spectroscopy-data-automating-pitch/</link>
+      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-07-18-sonifying-ir-spectroscopy-data-automating-pitch/</guid>
+      <description>Going off in a bit of a different direction here, using the data as automation to drive the pitch of a synth:&#xA;( f = CSVFileReader.readInterpret(Document.current.dir.asString++&amp;quot;/water.csv&amp;quot;);&#xA;f = ((f.flop[1] * -1) + 1).normalize(48,84); //midinotes&#xA;Pmono( \default, \midinote, Pseq(f, inf), \dur, 0.005).play )&#xA;In this recording, looping up the three chemicals one by one. Kind of cute - early days for this approach.&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2008/09/pmono01.mp3&#34;][/audio]&#xA;pmono01.mp3</description>
+    </item>
+    <item>
+      <title>Sonifying IR spectroscopy data - &#39;chords&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-07-17-sonifying-ir-spectroscopy-data-chords/</link>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-07-17-sonifying-ir-spectroscopy-data-chords/</guid>
+      <description>Finding the .resamp1 method in SuperCollider gave me an idea for reducing this rather large set of data into something perhaps more musically useful. Could I make something more like a tonal chord, with pitches repeated in every octave?&#xA;I first drastically resampled my data into just twelve points:&#xA;f = ((f.flop[1] * -1) + 1).resamp1(12); These would then be the probabilities of those twelve pitch classes appearing across a range of eight and a half octaves:</description>
+    </item>
+    <item>
+      <title>Sonifying IR spectroscopy data</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-07-16-sonifying-ir-spectroscopy-data/</link>
+      <pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-07-16-sonifying-ir-spectroscopy-data/</guid>
+      <description>I&amp;rsquo;m in the very early stages of a collaborative project with Dr Steven Ford, Senior Research Fellow and QC Manager at the Cancer Research UK Formulation Unit of Strathclyde University. Steve came to me with an idea about sonifying IR spectroscopy data, with a view to perhaps drawing some creative parallels between vibrations at the atomic scale and musical sound.&#xA;Steve sent me some IR data relating to three compounds, water, glycine and tyrosine, and I&amp;rsquo;ve been trying some things out in SuperCollider.</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans - Day 2, afternoon</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-day-2-afternoon/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-day-2-afternoon/</guid>
+      <description>After lunch today we had a joint session, with three people presenting their experience of teaching gamelan in schools and universities. I am presently engaged on a project to attempt to establish a gamelan at Stevenson College Edinburgh (soon to be Edinburgh College), so this area is of particular interest to me.&#xA;Ruth Andrews runs a gamelan programme for 12-17 year olds at the International School of Amsterdam, which sounds like it would be a model to aim for.</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans, Saturday rehearsals</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-saturday-rehearsals/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-saturday-rehearsals/</guid>
+      <description>Substantial chunks of the day were taken up by a series of rehearsals for the wayang. The venue was a modern dining hall, with a kind of semicircular shape. Spacially this allowed for a very good arrangement, with room for audience all around, and a separate staging area off to one side for dance and video. The ceiling was perhaps a little low, and the sound less resonant than might have been ideal.</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans, Saturday sessions</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-saturday-sessions/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-saturday-sessions/</guid>
+      <description>Today&amp;rsquo;s conference activities were somewhat disrupted by a revised schedule of wayang rehersals, which also caused our Scottish group a certain amount of last minute phone calls to try to get everyone there in time. I was fortunately able to make Helen Loth&amp;rsquo;s paper session &amp;lsquo;&amp;ldquo;Why gamelan, couldn&amp;rsquo;t we just use steel-pans?&amp;rdquo;: The use of gamelan with special needs groups and populations&amp;rsquo;. Helen is engaged on doctoral research in this area, and presented an illuminating account of her findings so far.</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans, Saturday, Wayang Lokananta</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-saturday-wayang-lokananta/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-05-01-gathering-of-the-gamelans-saturday-wayang-lokananta/</guid>
+      <description>At last, we get to the piece we have all been working towards for so many months:&#xA;Kanda Buwana is the company name of dhalang Matthew Isaac Cohen. I have known Matthew for a number of years, most notably during the period when he was at Glasgow University. Matthew was responsible for bringing dhalang Ki Joko Susilo to Scotland, and Mas Joko, as we called him, was in turn reponsible for a transformation in the approach of Gamelan Naga Mas.</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans - Day 1</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-04-30-gathering-of-the-gamelans-day-1/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-04-30-gathering-of-the-gamelans-day-1/</guid>
+      <description>Day 1 of the Gathering of the Gamelans here at York was very exciting and engaging. A great chance to catch up with old friends from the gamelan world, put faces to names, and meet new people.&#xA;I left Glasgow purposely very early in order to get down in time to catch Charles Matthews&amp;rsquo; presentation &amp;lsquo;Searching for an approach to gamelan and electronic music&amp;rsquo;. I&amp;rsquo;ve been following Charles on twitter on his recent trip to Indonesia where he was exploring some of these approaches in their native setting, and I was very curious to see what he has been up to.</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans - Day 2, morning</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-04-30-gathering-of-the-gamelans-day-2-morning/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-04-30-gathering-of-the-gamelans-day-2-morning/</guid>
+      <description>Our first session today was the fascinating tale of the Dutch group &amp;lsquo;Babar Layar&amp;rsquo;, as researched by Maria Mendonça. It&amp;rsquo;s a story worthy of Hollywood: a group of Dutch teenagers who decided to construct their own gamelan under the Nazi occupation, going on to become a key influence on gamelan in Europe and the States. There&amp;rsquo;s a clip of them playing at an Eistedfodd in Wales in 1953 (about 1&#39;50 into that clip).</description>
+    </item>
+    <item>
+      <title>Gathering of the Gamelans</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-04-23-gathering-of-the-gamelans/</link>
+      <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-04-23-gathering-of-the-gamelans/</guid>
+      <description>From Thursday of this week to Monday of next I&amp;rsquo;m going to be at the Gathering of the Gamelans in York. This event is part academic conference, and partly a performative celebration of gamelan in the UK, most particularly the 30 years that Gamelan Sekar Petak has been at the University of York.&#xA;For the last couple of months, gamelan groups all over the UK have been rehearsing both separately and collaboratively towards &amp;lsquo;Lokananta, Gamelan of the Gods&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Performances at Plug</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-04-20-performances-at-plug/</link>
+      <pubDate>Fri, 20 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-04-20-performances-at-plug/</guid>
+      <description>I&amp;rsquo;m having two new pieces performed at the Plug festival at the Royal Conservatoire of Scotland next week. The first is called Dr Mueller? Dr Mueller!? Oh, boy :( and is a postlude to Spiricom, the third piece in Gordon McPherson’s 2007 trilogy Ghosts. The ‘spiricom’ was a psuedoscientific electronic device built by a couple of cranks in the 1980s, who convinced themselves that with it they could hear and talk to dead people including, supposedly, a certain ‘Dr Mueller’.</description>
+    </item>
+    <item>
+      <title>Working on &#39;The Black Rain&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-03-19-working-on-the-black-rain/</link>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-03-19-working-on-the-black-rain/</guid>
+      <description>After the success of the &amp;lsquo;The Seventh Voyage&amp;rsquo;, I have high hopes for my next two laptop-and-acoustic-instruments pieces, both to be performed at Plug 12 in a month&amp;rsquo;s time. Today I&amp;rsquo;m working on &amp;lsquo;The Black Rain&amp;rsquo;, which is for five players from the Scottish Ensemble - two violins, viola, cello and double bass - and live processing in SuperCollider. Here&amp;rsquo;s the (rather long and convoluted) programme note:&#xA;‘When the last trace of the rocket’s presence, a whitish haze, had been absorbed by the atmosphere, when the wandering sandy waves gradually began to cover up the naked rock of the ground, at the same time filling in the deserted digging spaces – only then, much later, did a dark cloud gather in the west.</description>
+    </item>
+    <item>
+      <title>Premiere of &#39;The Seventh Voyage&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-03-08-premiere-of-the-seventh-voyage/</link>
+      <pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-03-08-premiere-of-the-seventh-voyage/</guid>
+      <description>I&amp;rsquo;m happy to say that my collaboration with pianist Silviya Mihaylova The Seventh Voyage, for two pianos and laptop, has been given pride of place as the closing work in the Royal Conservatoire of Scotland&amp;rsquo;s piano festival.&#xA;The concert is at 1300 this Monday 12 March, in the Guinness Room. Tickets are available from the RCS box office, although, confusingly, they still have the wrong concert listed on the website https://boxoffice.</description>
+    </item>
+    <item>
+      <title>Work in progress: &#39;The Seventh Voyage&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-02-10-work-in-progress-the-seventh-voyage/</link>
+      <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-02-10-work-in-progress-the-seventh-voyage/</guid>
+      <description>I&amp;rsquo;m working on about three new pieces at the moment. The second of these is a collaboration with pianist Silviya Mihaylova on a shortish work for piano and laptop. The piano part is kind of done: Silviya took my sketches and added some ideas of her own. Apart from that, I have a program note, and some programming:&#xA;The title of this piece is taken from Stanisław Lem’s 1971 science fiction comedy classic ‘The Star Diaries’.</description>
+    </item>
+    <item>
+      <title>Composer&#39;s screenshots</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-02-06-composers-screenshots/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-02-06-composers-screenshots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Working on a new piece</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2012-01-30-working-on-a-new-piece/</link>
+      <pubDate>Mon, 30 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2012-01-30-working-on-a-new-piece/</guid>
+      <description>Here&amp;rsquo;s how composing looks to me at the moment:&#xA;( a=[46!5,39!4,41!4,36!3,44!3,43!2,37!2,38,42].flat; Pbind(\midinote, Pstutter( Pwhite(5,17,inf), //min max number repeated notes Pxrand(a,10) //get 10 pitches (actually 8???) ), \dur, 0.25, \legato, 0.5 ).play; )</description>
+    </item>
+    <item>
+      <title>Nine hours of improvisation</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-12-27-nine-hours-of-improvisation/</link>
+      <pubDate>Tue, 27 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-12-27-nine-hours-of-improvisation/</guid>
+      <description>My friend and colleage Kath has persuaded me to sign up for a ten-hour sponsored improvisation which she is organising. The event is in support of Common Wheel, a Glasgow-based charity who provided &amp;lsquo;meaningful activity for people with mental illness&amp;rsquo;. They have two strands to their work, a bicyle project and the music project &amp;lsquo;Polyphony&amp;rsquo;. The latter runs at Gartnaval Hospital, where they are asking interested musicians to join them on 28 January for ten hours of sponsored musical improvisation.</description>
+    </item>
+    <item>
+      <title>Recording from &#39;Night of the Earthmen&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-12-11-recording-from-night-of-the-earthmen/</link>
+      <pubDate>Sun, 11 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-12-11-recording-from-night-of-the-earthmen/</guid>
+      <description>[soundcloud url=&amp;ldquo;http://api.soundcloud.com/tracks/30240394&#34;]&#xA;Not be much to listen to, maybe, but feels an important moment for me: a new direction after finishing the PhD, satisfyingly far away from score-based contemporary &amp;lsquo;classical&amp;rsquo; nonpop, or whatever you call all that stuff. Next up: more of this kind of thing, plus more gamelan. Happy days.</description>
+    </item>
+    <item>
+      <title>Night of the Earth Men</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-12-08-night-of-the-earth-men/</link>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-12-08-night-of-the-earth-men/</guid>
+      <description>I&amp;rsquo;m doing, um, I guess my first ever solo electro-junk improv gig on Friday 5 December. Ulp. Here&amp;rsquo;s the poster… I&amp;rsquo;m almost embarrased to say:&#xA;Let&amp;rsquo;s see, the plan includes… a Pd patch running on the netbook, probably SuperCollider running on the (new secondhand) MacBook Pro. The Novation BassStation and the Hammond AutoVari 64, a mixing desk, and a pocket trumpet with a piezo mic inside a harmon mute. That&amp;rsquo;s what I&amp;rsquo;ve been experimenting with so far, anyway&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Working on a postlude to &#39;Spiricom&#39;</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-11-28-working-on-a-postlude-to-spiricom/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-11-28-working-on-a-postlude-to-spiricom/</guid>
+      <description>I&amp;rsquo;ve been working on a piece for this year&amp;rsquo;s Plug festival at the Royal Conservatoire of Scotland, which will be in May sometime. The theme this time round is &amp;lsquo;postludes&amp;rsquo;. Head of Composition Gordon McPherson has invited all the composers here, including staff like myself, to compose something which draws on, or reflects, or comments upon in some way, a piece from a previous Plug festival.&#xA;I&amp;rsquo;ve found myself drawn immediately to one of Gordon&amp;rsquo;s own pieces from 2007, &amp;lsquo;Spiricom&amp;rsquo;, part of a trilogy of pieces called &amp;lsquo;Ghosts&amp;rsquo; which deal in various ways with death and a possible afterlife.</description>
+    </item>
+    <item>
+      <title>&#39;Running in the Dark&#39; in Bremen</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-09-19-running-in-the-dark-in-bremen/</link>
+      <pubDate>Mon, 19 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-09-19-running-in-the-dark-in-bremen/</guid>
+      <description>Just found out that the Bremen gamelan group Gamelan Kancil are playing Running in the Dark on Nov 27, working from the score they found here. Hope they make a recording, be curious to see what they make of it…</description>
+    </item>
+    <item>
+      <title>Cheetah MQ8, first go</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-29-cheetah-mq8-first-go/</link>
+      <pubDate>Mon, 29 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-29-cheetah-mq8-first-go/</guid>
+      <description>I&amp;rsquo;ve just got a new toy (tx John!). It&amp;rsquo;s a Cheetah MQ8 midi sequencer. This is UK made, apparently released sometime in the late 80s as a competitor to the Alesis MMT-8. I&amp;rsquo;ve only just started to figure it out: pretty crazy trying to do everything with a combination of button presses and a tiny, dim LCD screen!&#xA;Here&amp;rsquo;s a two track improvisation, using sounds from my trusty Casio GZ-50M.</description>
+    </item>
+    <item>
+      <title>gamelan = hardcore</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-17-gamelan-hardcore/</link>
+      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-17-gamelan-hardcore/</guid>
+      <description>Don&amp;rsquo;t listen to this one at all unless you like really hardcore distortion. No, scrub that, just don&amp;rsquo;t listen to this one. Please. (Brownian walks in SuperCollider, samples &amp;amp; fx in Logic Pro.)&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2008/09/gamhum.mp3&#34;][/audio]&#xA;gamhum.mp3</description>
+    </item>
+    <item>
+      <title>Gendèr miking again</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-15-gender-miking-again/</link>
+      <pubDate>Mon, 15 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-15-gender-miking-again/</guid>
+      <description>The gendèr miking strategy just got simpler again. After some experimentation, it turned out I was getting better results by just whacking all seven mikes in parallel and &amp;lsquo;mixing&amp;rsquo; them with a single 10k resistor. Loads of cross talk, but for this setup it doesn&amp;rsquo;t really matter. The virtual-earth op-amp design wasn&amp;rsquo;t working out, trying to make it run from a single 9v battery was giving me headaches. This is sounding pretty good, perhaps a bit too much percussive thump at the start of the note: need to find a different way of mounting the mikes, at the moment they are just blu-tacked to the casing.</description>
+    </item>
+    <item>
+      <title>Gamelan impro sliced in SuperCollider</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-11-gamelan-impro-sliced-in-supercollider/</link>
+      <pubDate>Thu, 11 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-11-gamelan-impro-sliced-in-supercollider/</guid>
+      <description>Not sure if this is really going anywhere really, but… a little bit of gendèr and ketipung impro sliced up in SuperCollider:&#xA;[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2008/09/afrbfr.mp3&#34;][/audio]&#xA;afrbfr.mp3</description>
+    </item>
+    <item>
+      <title>Max speech munged in Pd</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-max-speech-munged-in-pd/</link>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-max-speech-munged-in-pd/</guid>
+      <description>http://youtu.be/5rCYUlvj2dY&#xA;Still at the point of being a tech demo, but my latest text-to-screech project has moved forward a little. Here you can see speech sounds controlled by Max 5 piped into PureData. In Pd, I&amp;rsquo;m using some old tricks with the &amp;lsquo;freeze&amp;rsquo; function in freeverb plus some pitch shifting to further play with the sound. As a potentially interesting wrinkle, the effects in Pd are turned on and off by the words typed in Max: &amp;lsquo;reverb&amp;rsquo;, &amp;lsquo;freeze&amp;rsquo; etc.</description>
+    </item>
+    <item>
+      <title>trip points one-shot cap</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-trip-points-one-shot-cap/</link>
+      <pubDate>Tue, 09 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-09-trip-points-one-shot-cap/</guid>
+      <description>[soundcloud url=&amp;ldquo;http://api.soundcloud.com/tracks/20785288&#34;]&#xA;&amp;rsquo;trip points one-shot cap&amp;rsquo; is (yet another) piece inspired by ripped off from alluding to Louis Andriessen&amp;rsquo;s gritty post-minimalist classic &amp;lsquo;Hoketus&amp;rsquo;.&#xA;There are two main building blocks. The first is… I was rummaging around in my box of old electronics, and found an optical theremin I&amp;rsquo;d built years ago. The IC at the heart of this is a bit of a classic, a Texas Instruments SN76477, a very early chip designed to make sounds for toys and games, also great for musical experimentation.</description>
+    </item>
+    <item>
+      <title>Gendèr mic prototype 01</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-08-gender-mic-prototype-01/</link>
+      <pubDate>Mon, 08 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-08-gender-mic-prototype-01/</guid>
+      <description>Up to something a bit different today: electronics! Yum. I&amp;rsquo;m building a simple op-amp virtual earth mixer, which I&amp;rsquo;m going to use to combine the signal from seven cheapo tie-pin mics, one for each pair of keys. A few false starts today, bit rusty on this, but now have a simple circuit running from a 9v battery, which is producing really a very good sound indeed from a £3 mic.</description>
+    </item>
+    <item>
+      <title>Happy Me</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-04-happy-me/</link>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-04-happy-me/</guid>
+      <description>A wee jazz tune which I came up with the other day. If my new wordpress.com blog would let me, I&amp;rsquo;d embed it for playback: but I can&amp;rsquo;t, so here it is on musescore.com.</description>
+    </item>
+    <item>
+      <title>The diagram (ought to be) the program</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-04-the-diagram-ought-to-be-the-programm/</link>
+      <pubDate>Thu, 04 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-04-the-diagram-ought-to-be-the-programm/</guid>
+      <description>&amp;lsquo;The diagram is the program&amp;rsquo; according to Miller Puckette, creator of Pd and (originally) Max. But sometimes you have to draw the diagram too… :)</description>
+    </item>
+    <item>
+      <title>Routing text-to-speech on the mac</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/</guid>
+      <description>http://www.youtube.com/watch?v=3FG_tsG7mI4&#xA;There are any number of ways of working with the built-in text-to-speech synthesis capabilities on the mac. All of the music programming languages I use - Max, Pd and SuperCollider - offer ways of doing this, and I&amp;rsquo;ve also had great success with controlling the output using AppleScript. The problem is that in every case, the audio itself is actually synthesised by the mac os itself, which means it is not accessible within an audio environment for further processing.</description>
+    </item>
+    <item>
+      <title>Yet more text-to-screech</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-yet-more-text-to-screech/</link>
+      <pubDate>Tue, 02 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-08-02-yet-more-text-to-screech/</guid>
+      <description>There&amp;rsquo;s quite a history of musicians and sound artists doing creative things with speech synthesis. One of the best known examples is the Radiohead track Fitter Happier from the album OK Computer, and its not hard to find other cases of commercial artists incorporating this kind of material in tracks.&#xA;Very often this has been done on the mac, which has always had speech synthesis built in. (There&amp;rsquo;s a very interesting anecdote about how speech synthesis came to be included on the very first macs at the personal insistence of Steve Jobs.</description>
+    </item>
+    <item>
+      <title>The Sloans Project</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-07-29-the-sloans-project/</link>
+      <pubDate>Fri, 29 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-07-29-the-sloans-project/</guid>
+      <description>I saw a great new opera recently, The Sloans Project. Composed by Gareth Williams with a libretto by David Brook, it was set and performed in the historic Sloans Bar and Restaurant. Yes, that&amp;rsquo;ll be opera performed in a pub! The opening scene was a coup de theatre. As the audience milled about in the bar downstairs, the show just started right there, with a couple at the bar bursting into song, soon to be answered by another drunken-looking guy at the bar.</description>
+    </item>
+    <item>
+      <title>parkbenchpound</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-07-26-parkbenchpound/</link>
+      <pubDate>Tue, 26 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-07-26-parkbenchpound/</guid>
+      <description>[soundcloud url=&amp;ldquo;http://api.soundcloud.com/tracks/19798777&#34;]&#xA;Mags and I were enjoying a pleasant evening walk in Maxwell Park, when she had a lucky find: a pound coin sitting on the grass beside a metal park bench. We had some fun sitting in the sun and improvising with the sound of the bench and the coin, which I recorded on my new HTC Wildfire S Android phone. I made the track in Logic using nothing but those sounds: fairly minimal effects, just some pitch shifting and fake stereo.</description>
+    </item>
+    <item>
+      <title>Liebesglück hat tausend Zungen</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2011-05-01-liebesgluck-hat-tausend-zungen/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-05-01-liebesgluck-hat-tausend-zungen/</guid>
+      <description>This Tuesday 3rd May at 1600 sees the performance of the only piece I have in this year&amp;rsquo;s Plug festival at the RSAMD in Glasgow, Liebesglück hat tausend Zungen – a lied, for soprano and piano. Now, why on earth, you say would anyone in this day and age want to write a lied of all things?! Good question: I&amp;rsquo;m not sure I know the answer. However, the fact is that the unifying theme of this year&amp;rsquo;s festival is deemed to be something called the Glasgow Liederbuch, to which all the composer have been invited to contribute.</description>
+    </item>
+    <item>
+      <title>FIMPaC day 1</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-05-20-fimpac-day-1/</link>
+      <pubDate>Thu, 20 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-05-20-fimpac-day-1/</guid>
+      <description>So here I am at the Forum for Innovation in Music Production and Composition at Leeds College of Music. It&amp;rsquo;s been a while since I&amp;rsquo;ve attended a conference, but I&amp;rsquo;m getting back into the swing of it. It&amp;rsquo;s hardly coalmining; nevertheless, it&amp;rsquo;s quite tiring to sit still all day listening to a long series of what can be quite dense and complicated presentations.&#xA;The subject matter for this conference at least is consistently up my street.</description>
+    </item>
+    <item>
+      <title>Étude-Poème pour Pianiste Récitant</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2010-04-27-etude-poeme-pour-pianiste-recitant/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2010-04-27-etude-poeme-pour-pianiste-recitant/</guid>
+      <description>The programme note for my latest piece Étude-Poème pour Pianiste Récitant, being performed this evening at 1830 by Silviya Mihaylova.&#xA;&amp;lsquo;So, here’s the idea; a piano étude where the pianist speaks to the audience, playing along with what she is saying. This idea has several things going for it, for one, hopefully nobody else will have hit on the selfsame thing. Also… here’s what it says in the Oxford Companion to Music, under ‘étude’;</description>
+    </item>
+    <item>
+      <title>‘certain assumptions’ at ArtMusFair</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-10-22-certain-assumptions-at-artmusfair/</link>
+      <pubDate>Thu, 22 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-10-22-certain-assumptions-at-artmusfair/</guid>
+      <description>ARTMUSFAIR is… well, I guess you could describe it as a trade fair for contemporary music (stop giggling) which this year is happening in Glasgow, Thur 29 Oct to Sun 1 Nov. I&amp;rsquo;ve got two things confirmed and a third in the pipeline.&#xA;First up is a new piece certain assumptions, which was accepted in a call for scores by the Red Note Ensemble. It&amp;rsquo;s for alto flute, horn, marimba, cello and &amp;rsquo;tape&amp;rsquo;, with the latter part composed using a patch I made at the pd bootcamp in Wales earlier this year.</description>
+    </item>
+    <item>
+      <title>First steps in Max/MSP</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-09-23-first-steps-in-maxmsp/</link>
+      <pubDate>Wed, 23 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-09-23-first-steps-in-maxmsp/</guid>
+      <description>Nothing earth-shaking here, just the very first Max/MSP patch I built with my Performance Technology students today.&#xA;http://www.youtube.com/watch?v=ptgQIun-H70</description>
+    </item>
+    <item>
+      <title>Glasgow Sequenza XVII – ‘Exercise’ for Trombone</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-04-15-glasgow-sequenza-xvii-exercise-for-trombone/</link>
+      <pubDate>Wed, 15 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-04-15-glasgow-sequenza-xvii-exercise-for-trombone/</guid>
+      <description>This years Plug 2009 festival of new music at the RSAMD starts soon, 27 April - 1 May. One of the features this year is a new set of &amp;lsquo;Glasgow&amp;rsquo; sequenzas, written variously by students and staff and interspersed among larger programme items. Mine is for trombone and, between myself and Head of Composition Gordon McPherson, we&amp;rsquo;ve cooked up a plan to, um, kill a trombonist? Here&amp;rsquo;s my description from the score;</description>
+    </item>
+    <item>
+      <title>Pictures from Bare Wires</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-03-16-pictures-from-bare-wires/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-03-16-pictures-from-bare-wires/</guid>
+      <description>[slideshow]&#xA;(Pics by Tamara Polajnar)</description>
+    </item>
+    <item>
+      <title>cynthcart</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-02-22-cynthcart/</link>
+      <pubDate>Sun, 22 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-02-22-cynthcart/</guid>
+      <description>Got hold of a loan of a very cool instrument to use in the show;&#xA;Yup, it&amp;rsquo;s a cynthcart, a Commodore 64 hacked up to play as a synth! Tried it out in rehearsal today, works great. (Thanks to Col for the loan.)</description>
+    </item>
+    <item>
+      <title>Plan for the show, version 01</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-02-21-plan-for-the-show-version-01/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-02-21-plan-for-the-show-version-01/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plan for the show, version 02</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-02-21-plan-for-the-show-version-02/</link>
+      <pubDate>Sat, 21 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-02-21-plan-for-the-show-version-02/</guid>
+      <description>Well, that worked out easily enough. If the longer numbers are in the region of five mins, I reckon I can just about bring that in at 45 mins.&#xA;Also working on a list of instruments, looks like twenty-two different bits of gear, including laptops, effects units and conventional instruments.</description>
+    </item>
+    <item>
+      <title>Slipping Away</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2009-02-20-slipping-away/</link>
+      <pubDate>Fri, 20 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-02-20-slipping-away/</guid>
+      <description>Driving work the other morning, I wrote this waltz in my head;&#xA;It&amp;rsquo;s called &amp;lsquo;Slipping Away&amp;rsquo; because, as you might have noticed, each time it repeats it accidentally slides down a semitone; like the last slush of winter on a window pane, or someone slowly, gently, dying&amp;hellip;&#xA;I think I&amp;rsquo;ll use it in the show on March 5th. Which now, finally has a fourth player! And, I got a loan the other day of an *extremely* cool instrument to use in the show, more details to follow.</description>
+    </item>
+    <item>
+      <title>Ted Edwards classic</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-12-22-ted-edwards-classic/</link>
+      <pubDate>Mon, 22 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-12-22-ted-edwards-classic/</guid>
+      <description>I&amp;rsquo;ve finally managed to persuade Ted to let me post some of the amazing back catalog he&amp;rsquo;s built up over the years. Below is a piece called &amp;lsquo;slacion&amp;rsquo; which he did &amp;lsquo;sometime in the late 70s&amp;rsquo;, using an adapted version of the PE Minisonic synth plus tape loops plus a spring reverb. The video is also by Ted, a recent digital remix of &amp;lsquo;some old Betamax that&amp;rsquo;s up in the loft&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Bare Wires</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-10-22-bare-wires/</link>
+      <pubDate>Wed, 22 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-10-22-bare-wires/</guid>
+      <description>I&amp;rsquo;m putting in a proposal to Cryptic Nights to do a show called, to give it its full title, Ted Edwards proudly presents Bare Wires - Live in concert or just Bare Wires for short. Below I&amp;rsquo;ve gathered together in one place some relevant video and other documentation;&#xA;&amp;lsquo;The Other Other Hand&amp;rsquo; is pretty much fully documented from initial ideas to final performance at workingtitle08.blogspot.com - the best place to start is probably the three-minute preview video at the top of that page, also available on YouTube.</description>
+    </item>
+    <item>
+      <title>The Whirlies – finished</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-10-03-the-whirlies-finished/</link>
+      <pubDate>Fri, 03 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-10-03-the-whirlies-finished/</guid>
+      <description>The performance of &amp;lsquo;The Whirlies&amp;rsquo; is coming up very soon;&#xA;The Whirlies by J. Simon van der Walt A new piece for strings and electro-junk improviser, inspired by the roundabouts of East Kilbride&#xA;Scottish Philharmonic Orchestra Cond Peter Cynfryn Jones Solist Edward &amp;lsquo;Teddy&amp;rsquo; Edwards&#xA;Òran Mór (Byre&amp;rsquo;s Road, Glasgow) Monday 17 Nov 2008 Doors open at 1715, Concert begins at 1815 £10 includes cocktail and canapés 0141 357 6200&#xA;Also featuring Vaughan Williams A Lark Ascending Debussy Danses Sacré et Profane Respighi Il Tramonto</description>
+    </item>
+    <item>
+      <title>Lovely music for piano and striking clock</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-09-22-lovely-music-for-piano-and-striking-clock/</link>
+      <pubDate>Mon, 22 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-09-22-lovely-music-for-piano-and-striking-clock/</guid>
+      <description>[audio src=&amp;ldquo;https://tedthetrumpet.files.wordpress.com/2008/09/reveal_chime.mp3&amp;rdquo;][/audio]&#xA;reveal_chime.mp3&#xA;Some music I&amp;rsquo;m working on for a puppet show…</description>
+    </item>
+    <item>
+      <title>The Whirlies – early sketches</title>
+      <link>http://localhost:1313/jsvdw_hugo/posts/2008-08-16-the-whirlies-early-sketches/</link>
+      <pubDate>Sat, 16 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-08-16-the-whirlies-early-sketches/</guid>
+      <description>I have a commission for another piece from the Scottish Philharmonic Orchestra, for a concert at Òran Mór in Glasgow on 17 November. It&amp;rsquo;s going to be called &amp;lsquo;The Whirlies&amp;rsquo;, which is a famous roundabout in East Kilbride; to be the first movement of a suite dedicated to the, er, roundabouts of East Kilbride!&#xA;The piece is essentially for strings, but - and I haven&amp;rsquo;t exactly told them this yet - I intend to turn up and do some live electro-junk impro along with the piece as well.</description>
+    </item>
+  </channel>
+</rss>

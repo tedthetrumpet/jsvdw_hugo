@@ -2,24 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on JSvdW Hugo test</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:1313/jsvdw_hugo/categories/</link>
     <description>Recent content in Categories on JSvdW Hugo test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 May 2006 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jsvdw_hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/jsvdw_hugo/categories/news/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/categories/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/jsvdw_hugo/categories/tech/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/categories/tech/</guid>
+      <description></description>
+    </item>
     <item>
       <title>All</title>
-      <link>http://localhost:1313/categories/all/</link>
-      <pubDate>Thu, 04 May 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/all/</guid>
+      <link>http://localhost:1313/jsvdw_hugo/categories/all/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/categories/all/</guid>
       <description></description>
     </item>
     <item>
       <title>Reviews</title>
-      <link>http://localhost:1313/categories/reviews/</link>
-      <pubDate>Thu, 04 May 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/reviews/</guid>
+      <link>http://localhost:1313/jsvdw_hugo/categories/reviews/</link>
+      <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/categories/reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nonsense</title>
+      <link>http://localhost:1313/jsvdw_hugo/categories/nonsense/</link>
+      <pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/categories/nonsense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion</title>
+      <link>http://localhost:1313/jsvdw_hugo/categories/opinion/</link>
+      <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/categories/opinion/</guid>
       <description></description>
     </item>
   </channel>

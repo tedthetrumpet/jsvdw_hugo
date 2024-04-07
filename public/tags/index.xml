@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JSvdW Hugo test</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/jsvdw_hugo/tags/</link>
     <description>Recent content in Tags on JSvdW Hugo test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jsvdw_hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wswek</title>
+      <link>http://localhost:1313/jsvdw_hugo/tags/wswek/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/tags/wswek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rite</title>
+      <link>http://localhost:1313/jsvdw_hugo/tags/rite/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/tags/rite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bare</title>
+      <link>http://localhost:1313/jsvdw_hugo/tags/bare/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jsvdw_hugo/tags/bare/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

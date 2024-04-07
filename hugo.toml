@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tedthetrumpet.github.io/jsvdw_hugo/'
 languageCode = 'en-us'
 title = 'JSvdW Hugo test'
 # theme = 'hugo-book'

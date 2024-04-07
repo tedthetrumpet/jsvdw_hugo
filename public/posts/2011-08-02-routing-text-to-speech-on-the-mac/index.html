@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/jsvdw_hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=jsvdw_hugo/livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="http://www.youtube.com/watch?v=3FG_tsG7mI4
+There are any number of ways of working with the built-in text-to-speech synthesis capabilities on the mac. All of the music programming languages I use - Max, Pd and SuperCollider - offer ways of doing this, and I&rsquo;ve also had great success with controlling the output using AppleScript. The problem is that in every case, the audio itself is actually synthesised by the mac os itself, which means it is not accessible within an audio environment for further processing.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Routing text-to-speech on the mac" />
+<meta property="og:description" content="http://www.youtube.com/watch?v=3FG_tsG7mI4
+There are any number of ways of working with the built-in text-to-speech synthesis capabilities on the mac. All of the music programming languages I use - Max, Pd and SuperCollider - offer ways of doing this, and I&rsquo;ve also had great success with controlling the output using AppleScript. The problem is that in every case, the audio itself is actually synthesised by the mac os itself, which means it is not accessible within an audio environment for further processing." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2011-08-02T00:00:00+00:00" />
+<meta property="article:modified_time" content="2011-08-02T00:00:00+00:00" />
+<title>Routing text-to-speech on the mac | JSvdW Hugo test</title>
+<link rel="manifest" href="/jsvdw_hugo/manifest.json">
+<link rel="icon" href="/jsvdw_hugo/favicon.png" >
+<link rel="canonical" href="http://localhost:1313/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/">
+<link rel="stylesheet" href="/jsvdw_hugo/book.min.f8d3666af559e9590215dba2158127976df19ef623d0be35c6765ea14d98350f.css" integrity="sha256-&#43;NNmavVZ6VkCFduiFYEnl23xnvYj0L41xnZeoU2YNQ8=" crossorigin="anonymous">
+  <script defer src="/jsvdw_hugo/flexsearch.min.js"></script>
+  <script defer src="/jsvdw_hugo/en.search.min.d17283a5f696a2f9df43cb930b5ee6856a5184b8cbbe2f16a6d4d670b744fe68.js" integrity="sha256-0XKDpfaWovnfQ8uTC17mhWpRhLjLvi8WptTWcLdE/mg=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/jsvdw_hugo/"><span>JSvdW Hugo test</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Works</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/2008-02-29-scam/" class="">The Society for Classical and Authentic Music</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-b86813cf18f514c18a53bf1c7586c09d" class="toggle"  />
+    <label for="section-b86813cf18f514c18a53bf1c7586c09d" class="flex justify-between">
+      <a href="/jsvdw_hugo/docs/works/works-section/" class="">Works Section</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/first-page/" class="">First Page</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/second-page/" class="">Second Page</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/jsvdw_hugo/posts/"  >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/jsvdw_hugo/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Routing text-to-speech on the mac</strong>
+
+  <label for="toc-control">
+    
+    <img src="/jsvdw_hugo/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown book-post">
+  <h1>
+    <a href="/jsvdw_hugo/posts/2011-08-02-routing-text-to-speech-on-the-mac/">Routing text-to-speech on the mac</a>
+  </h1>
+  
+  <h5>August 2, 2011</h5>
+
+
+
+  
+  <div>
+    
+      <a href="/jsvdw_hugo/categories/news/">News</a>, 
+      <a href="/jsvdw_hugo/categories/tech/">Tech</a>
+  </div>
+  
+
+  
+
+
+
+<p><a href="http://www.youtube.com/watch?v=3FG">http://www.youtube.com/watch?v=3FG</a>_tsG7mI4</p>
+<p>There are any number of ways of working with the built-in text-to-speech synthesis capabilities on the mac. All of the music programming languages I use - <a href="http://cycling74.com/" title="http://cycling74.com/">Max</a>, <a href="http://puredata.info/" title="http://puredata.info/">Pd</a> and <a href="http://supercollider.sourceforge.net/" title="http://supercollider.sourceforge.net/">SuperCollider</a> - offer ways of doing this, and I&rsquo;ve also had great success with controlling the output using AppleScript. The problem is that in every case, the audio itself is actually synthesised by the mac os itself, which means it is not accessible within an audio environment for further processing.</p>
+<p>I was inspired to have another think about this recently by a <a href="http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/Jacked-Speech-td6604162.html" title="http://new-supercollider-mailing-lists-forums-use-these.2681727.n2.nabble.com/Jacked-Speech-td6604162.html">thread</a> on the SuperCollider list where somebody was trying to do exactly this, by using <a href="http://jackosx.com/" title="http://jackosx.com/">Jack</a> to route the sound from the mac back into the application for further processing. What I&rsquo;ve started to experiment with is routing the audio into a <em>different</em> application: in the example above, controlling the speech synthesis in Max and passing the audio into Pd. Combined with the facility to pass midi from Max to Pd (easy), I think I can see how I can make a workable and potentially interesting system. But, for now, just proving to myself that it can be done :)</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

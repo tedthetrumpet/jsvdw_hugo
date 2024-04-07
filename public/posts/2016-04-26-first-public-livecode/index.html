@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head><script src="/jsvdw_hugo/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=jsvdw_hugo/livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Last night I stumbled into my first public outing of some livecoding I&rsquo;ve been working on in SuperCollider. The context was an improvisation night called In Tandem run by Bruce Wallace at the Academy of Music and Sound in Glasgow. I hadn&rsquo;t intended to play, as I really don&rsquo;t feel I&rsquo;m ready yet, but I had my laptop and cables with me, they had a projector, so…!
+I was jamming along with three other people, on bass, guitar and analog synth.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="First public livecode" />
+<meta property="og:description" content="Last night I stumbled into my first public outing of some livecoding I&rsquo;ve been working on in SuperCollider. The context was an improvisation night called In Tandem run by Bruce Wallace at the Academy of Music and Sound in Glasgow. I hadn&rsquo;t intended to play, as I really don&rsquo;t feel I&rsquo;m ready yet, but I had my laptop and cables with me, they had a projector, so…!
+I was jamming along with three other people, on bass, guitar and analog synth." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/jsvdw_hugo/posts/2016-04-26-first-public-livecode/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2016-04-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2016-04-26T00:00:00+00:00" />
+<title>First public livecode | JSvdW Hugo test</title>
+<link rel="manifest" href="/jsvdw_hugo/manifest.json">
+<link rel="icon" href="/jsvdw_hugo/favicon.png" >
+<link rel="canonical" href="http://localhost:1313/jsvdw_hugo/posts/2016-04-26-first-public-livecode/">
+<link rel="stylesheet" href="/jsvdw_hugo/book.min.f8d3666af559e9590215dba2158127976df19ef623d0be35c6765ea14d98350f.css" integrity="sha256-&#43;NNmavVZ6VkCFduiFYEnl23xnvYj0L41xnZeoU2YNQ8=" crossorigin="anonymous">
+  <script defer src="/jsvdw_hugo/flexsearch.min.js"></script>
+  <script defer src="/jsvdw_hugo/en.search.min.d17283a5f696a2f9df43cb930b5ee6856a5184b8cbbe2f16a6d4d670b744fe68.js" integrity="sha256-0XKDpfaWovnfQ8uTC17mhWpRhLjLvi8WptTWcLdE/mg=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/jsvdw_hugo/"><span>JSvdW Hugo test</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>Works</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/2008-02-29-scam/" class="">The Society for Classical and Authentic Music</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-b86813cf18f514c18a53bf1c7586c09d" class="toggle"  />
+    <label for="section-b86813cf18f514c18a53bf1c7586c09d" class="flex justify-between">
+      <a href="/jsvdw_hugo/docs/works/works-section/" class="">Works Section</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/first-page/" class="">First Page</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/jsvdw_hugo/docs/works/works-section/second-page/" class="">Second Page</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/jsvdw_hugo/posts/"  >
+        Blog
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/jsvdw_hugo/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>First public livecode</strong>
+
+  <label for="toc-control">
+    
+    <img src="/jsvdw_hugo/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents"></nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+<article class="markdown book-post">
+  <h1>
+    <a href="/jsvdw_hugo/posts/2016-04-26-first-public-livecode/">First public livecode</a>
+  </h1>
+  
+  <h5>April 26, 2016</h5>
+
+
+
+  
+  <div>
+    
+      <a href="/jsvdw_hugo/categories/news/">News</a>, 
+      <a href="/jsvdw_hugo/categories/tech/">Tech</a>
+  </div>
+  
+
+  
+
+
+
+<p>Last night I stumbled into my first public outing of some livecoding I&rsquo;ve been working on in <a href="http://supercollider.github.io/">SuperCollider</a>. The context was an improvisation night called <a href="https://www.facebook.com/events/1081102458615158/">In Tandem</a> run by <a href="http://cargocollective.com/whatitisis/about-what-it-is-is">Bruce Wallace</a> at the <a href="http://academyofmusic.ac.uk/">Academy of Music and Sound</a> in Glasgow. I hadn&rsquo;t intended to play, as I really don&rsquo;t feel I&rsquo;m ready yet, but I had my laptop and cables with me, they had a projector, so…!</p>
+<p>I was jamming along with three other people, on bass, guitar and analog synth. It all went by in a blur, but everyone there seemed to think what I was doing was ok – mostly making grooves out of a random collection of drum samples, but running some algorithmically chosen chords as well.</p>
+<p>The code is below: this is my screen exactly as I left it at the end of the night, mistakes and all. Although <a href="http://toplap.org/wiki/Main_Page">Toplap</a> say &lsquo;show us your screens&rsquo;, they don&rsquo;t say &lsquo;show us your code&rsquo;, but… it seems the right thing to do.</p>
+<p><code>// the end! // they still going // if you're curious, this is SuperCollider // musci programming language // writing code live is called, er, livecoding // i'm just starting out &quot;/Users/jsimon/Music/SuperCollider Recordings/hitzamples/&quot;.openOS;</code></p>
+<p><code>( s.waitForBoot{ Pdef.all.clear; // clear things out ~hitzpath=&quot;/Users/jsimon/Music/SuperCollider Recordings/hitzamples/&quot;; // a folder of samples ~hbufs = (~hitzpath ++ &quot;*.aiff&quot;).pathMatch.collect({ |i| Buffer.read(s, i)}); // samples into an array of buffers t = TempoClock(140/60).permanent_(true); // tempo 140 bpm u = TempoClock(140/60 * 2/3).permanent_(true); // tempo 140 bpm * 2/3 SynthDef(\bf, {|out=0 buf=0 amp=0.1 freq=261.6255653006| var sig = PlayBuf.ar(2, buf, BufRateScale.kr(buf) * freq/60.midicps, doneAction:2); Out.ar(out, sig * amp) }).add; // this whole chunk defines a synth patch that plays samples };  // Pdef.all.clear; //&quot;/Users/jsimon/Music/SuperCollider Recordings/&quot;.openOS; // t.sync(140/60, 16); )  (instrument: \bf, \buf: ~hbufs.choose).play; // play an event using the synth called \bf // pick a randoms sample from the array (instrument: \bf, \buf: ~z).play; ~z = ~hbufs.choose;  t.sync(140/60, 32); // gradual tempo changes possible u.sync(140/60 * 2/3, 16); v.sync(140/60 * 5/3, 16);  Pbindef(\x, \instrument, \bf, \buf, ~hbufs.choose).play(t).quant_(4); Pbindef(\y, \instrument, \bf, \buf, ~hbufs.choose).play(u).quant_(4); Pbindef(\z, \instrument, \bf, \buf, ~hbufs.choose).play(v).quant_(4); Pbindef(\z, \instrument, \bf, \buf, ~hbufs.choose).play(v).quant_(4); ~g1 = {~hbufs.choose}!16; // choose sixteen samples at random = one bar full ~g2 = {~hbufs.choose}!16; Pbindef(\x, \buf, Pseq(~g1, inf)); // play those sixteen samples chosen Pbindef(\x, \buf, Pseq(~g2, inf)); // different sixteen, so, a variation. Pbindef(\x, \dur, 0.5); ~d1 = {2.rand/10}!16; ~d2 = {2.0.rand/10}!16; Pbindef(\x, \amp, Pseq(~d1, inf)); Pbindef(\x, \amp, 0.2); Pbindef(\x, \note, Prand((-36..0), inf)); Pbindef(\x, \note, Pseq({(-24..0).choose}!16, inf)); // pitch each sample down by random amount Pbindef(\x, \note, nil); Pbindef(\x).resume; Pbindef(\x).pause; Pbindef(\z).pause; Pbindef(\y).resume;  // hmm. blx diminished, that's just C major! // was using \degree instead of \note, better sounds a bit more like messiaen now :) ~c = {var x = Scale.diminished2.degrees.scramble.keep(4).sort; x.insert(1,(x.removeAt(1)-12))}; // hexMajor thing also works beautifully now! ~c = {var x = Scale.hexMajor6.degrees.scramble.keep(4).sort; x.insert(1,(x.removeAt(1)-12))};  ``// next question might be changing \note, \dur and \root in a coordinated way ( Pbindef(\k, \note, Pstutter(Prand([5,7,9,11,13]*2, inf), Pfunc(~c)), \dur, 0.5, \root, 3, // best option for feeling of key change \amp, Prand((2..5)/70,inf) ).play(t); ) Pbindef(\k).pause; Pbindef(\k).pause;</code></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents"></nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
