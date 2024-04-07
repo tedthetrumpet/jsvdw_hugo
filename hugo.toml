@@ -4,5 +4,6 @@ languageCode = 'en-us'
 title = 'JSvdW Hugo test'
 # theme = 'hugo-book'
 theme = 'jsvdw'
-# suggestion to fix image, no that broke the local badly
-canonifyURLs = true
+# suggestion to fix image
+# fixes image on ghub, but breaks layout!
+# canonifyURLs = true
