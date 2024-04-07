@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wswek on JSvdW Hugo test</title>
-    <link>http://localhost:1313/jsvdw_hugo/tags/wswek/</link>
+    <link>http://localhost:1313/tags/wswek/</link>
     <description>Recent content in Wswek on JSvdW Hugo test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jun 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/jsvdw_hugo/tags/wswek/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/wswek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About ‘Why Scotland, Why East Kilbride’</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-28-about-why-scotland-why-east-kilbride/</link>
+      <link>http://localhost:1313/posts/2013-06-28-about-why-scotland-why-east-kilbride/</link>
       <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-28-about-why-scotland-why-east-kilbride/</guid>
+      <guid>http://localhost:1313/posts/2013-06-28-about-why-scotland-why-east-kilbride/</guid>
       <description>I’ve been calling myself a ‘composer’ for about twenty years now, starting from when I went back to music college as a trumpet player but got sidetracked into writing music instead of playing it. On my website you’ll find early pieces like ‘Rate-limiting Step’ for cello &amp;amp; harp, or ‘Studies of Nucleate Boiling in Thin Liquid Layers (Part 1)’ for chamber ensemble. This is what people usually think of when I say I’m a ‘composer’: someone who writes contemporary score-based music for classically trained instrumentalists to play.</description>
     </item>
     <item>
       <title>Electronics nostalgia</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-24-electronics-nostalgia/</link>
+      <link>http://localhost:1313/posts/2013-06-24-electronics-nostalgia/</link>
       <pubDate>Mon, 24 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-24-electronics-nostalgia/</guid>
+      <guid>http://localhost:1313/posts/2013-06-24-electronics-nostalgia/</guid>
       <description>Very happy today. Been working on some electronics for the show. For me as a creator, this is a big part of what Why Scotland, Why East Kilbride is about: exploring my nostalgia for teenage evenings spent with a soldering iron, a cup of coffee, and a Hawkwind album.&#xA;Some pics below: trying to get my SN76477 prototyping station back up and running.</description>
     </item>
     <item>
       <title>Horn-a-Tron</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-21-horn-a-tron/</link>
+      <link>http://localhost:1313/posts/2013-06-21-horn-a-tron/</link>
       <pubDate>Fri, 21 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-21-horn-a-tron/</guid>
+      <guid>http://localhost:1313/posts/2013-06-21-horn-a-tron/</guid>
       <description>Some of the publicity put out for the show has perhaps been unintentionally slightly misleading! I did have a dream of having a French horn section in the show, but that dream has been realised through… technical means :)&#xA;Instead of live players, I&amp;rsquo;ve invented the &amp;lsquo;Horn-a-Tron&amp;rsquo;. This is a Pd patch which plays back midi horn sounds alongside video clips of sixteen horn players – with thanks to Steve Park for the horn vids.</description>
     </item>
     <item>
       <title>Why Scotland, Why Strathclyde Uni?</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-17-why-scotland-why-strathclyde-uni/</link>
+      <link>http://localhost:1313/posts/2013-06-17-why-scotland-why-strathclyde-uni/</link>
       <pubDate>Mon, 17 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-17-why-scotland-why-strathclyde-uni/</guid>
+      <guid>http://localhost:1313/posts/2013-06-17-why-scotland-why-strathclyde-uni/</guid>
       <description>A couple of interesting connections between the show and the University of Strathclyde. The first is – and I didn&amp;rsquo;t spot this till the other day – it&amp;rsquo;s actually mentioned in the original movie. At around 16 minutes, during the segment where Bruce and Mark visit the National Engineering Laboratory, there&amp;rsquo;s this exchange:&#xA;NEL Employee: We&amp;rsquo;ve got about three hundred and forty engineering graduates and scientific workers here, so we can tackle all sorts of engineering problems.</description>
     </item>
     <item>
       <title>Update on &#39;Why Scotland, Why East Kilbride&#39;</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-06-06-update-on-why-scotland-why-east-kilbride/</link>
+      <link>http://localhost:1313/posts/2013-06-06-update-on-why-scotland-why-east-kilbride/</link>
       <pubDate>Thu, 06 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-06-06-update-on-why-scotland-why-east-kilbride/</guid>
+      <guid>http://localhost:1313/posts/2013-06-06-update-on-why-scotland-why-east-kilbride/</guid>
       <description>Exactly a month to go now to &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;, my Cryptic Nights show at the CCA. Today I met with Steve Ford, who, as well as playing bass is going to be doing the live audio chemistry. Here&amp;rsquo;s an example of the kind of thing we won&amp;rsquo;t be doing: Somehow that one never got through the risk assessment :)</description>
     </item>
     <item>
       <title>Quartz Composer video sampler for WSWEK</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</link>
+      <link>http://localhost:1313/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</link>
       <pubDate>Sun, 27 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</guid>
+      <guid>http://localhost:1313/posts/2013-01-27-quartz-composer-video-sampler-for-wswek/</guid>
       <description>Here&amp;rsquo;s a screenshot of something I&amp;rsquo;ve been working on today for &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;:&#xA;Regular readers of this blog (ahem) will recall that this all started with a piece of music I heard in a dream, for a double rock band plus a big squad of french horns. Well, the double rock band is doable, but the french horns were going to be impractical for the gig.&#xA;So, I&amp;rsquo;m building a sort of video sampler.</description>
     </item>
     <item>
       <title>First rehearsal for &#39;Why Scotland, Why East Kilbride&#39;</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2013-01-19-first-rehearsal-for-why-scotland-why-east-kilbride/</link>
+      <link>http://localhost:1313/posts/2013-01-19-first-rehearsal-for-why-scotland-why-east-kilbride/</link>
       <pubDate>Sat, 19 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2013-01-19-first-rehearsal-for-why-scotland-why-east-kilbride/</guid>
+      <guid>http://localhost:1313/posts/2013-01-19-first-rehearsal-for-why-scotland-why-east-kilbride/</guid>
       <description>We&amp;rsquo;ve just had the first rehearsal for &amp;lsquo;Why Scotland, Why East Kilbride&amp;rsquo;, which is a new piece I&amp;rsquo;m putting together for Cryptic Nights, 4 &amp;amp; 5 July of this year. This piece is a fantasy: an reimagination of my own East Kilbride childhood, as expressed through the medium of my alter ego Edward &amp;lsquo;Teddy&amp;rsquo; Edwards, unsung hero of early British electronica.&#xA;The musical starting point for this piece was a dream I had, where I heard a fragment of music for what seemed to be a double rock band plus an orchestral horn section.</description>
     </item>
   </channel>

@@ -1,7 +1,8 @@
-baseURL = 'https://tedthetrumpet.github.io/jsvdw_hugo/'
+baseURL = 'https://tedthetrumpet.github.io/'
+# baseURL = 'https://tedthetrumpet.github.io/jsvdw_hugo/'
 languageCode = 'en-us'
 title = 'JSvdW Hugo test'
 # theme = 'hugo-book'
 theme = 'jsvdw'
 # suggestion to fix image, no that broke the local badly
-# canonifyURLs = true
+canonifyURLs = true

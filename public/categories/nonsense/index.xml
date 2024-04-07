@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nonsense on JSvdW Hugo test</title>
-    <link>http://localhost:1313/jsvdw_hugo/categories/nonsense/</link>
+    <link>http://localhost:1313/categories/nonsense/</link>
     <description>Recent content in Nonsense on JSvdW Hugo test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/jsvdw_hugo/categories/nonsense/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/nonsense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Straight No Chanter</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2011-11-02-straight-no-chanter/</link>
+      <link>http://localhost:1313/posts/2011-11-02-straight-no-chanter/</link>
       <pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2011-11-02-straight-no-chanter/</guid>
+      <guid>http://localhost:1313/posts/2011-11-02-straight-no-chanter/</guid>
       <description></description>
     </item>
     <item>
       <title>Jazz in the closet</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2009-09-02-jazz-in-the-closet/</link>
+      <link>http://localhost:1313/posts/2009-09-02-jazz-in-the-closet/</link>
       <pubDate>Wed, 02 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2009-09-02-jazz-in-the-closet/</guid>
+      <guid>http://localhost:1313/posts/2009-09-02-jazz-in-the-closet/</guid>
       <description>Keeping jazz where it belongs - in the closet :)</description>
     </item>
     <item>
       <title>No bands</title>
-      <link>http://localhost:1313/jsvdw_hugo/posts/2008-09-26-no-bands/</link>
+      <link>http://localhost:1313/posts/2008-09-26-no-bands/</link>
       <pubDate>Fri, 26 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jsvdw_hugo/posts/2008-09-26-no-bands/</guid>
+      <guid>http://localhost:1313/posts/2008-09-26-no-bands/</guid>
       <description>According to MySpace Music, there are no bands within 100 miles of Glasgow;&#xA;Seems a bit of a shame, really. Anybody feel like starting a band?</description>
     </item>
   </channel>
