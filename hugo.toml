@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'JSvdW Hugo test'
 # theme = 'hugo-book'
 theme = 'jsvdw'
-# suggestion to fix image
-canonifyURLs = true
+# suggestion to fix image, no that broke the local badly
+# canonifyURLs = true
